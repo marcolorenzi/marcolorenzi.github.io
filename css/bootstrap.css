@@ -517,6 +517,26 @@ mark,
   color: #999;
 }
 
+figure.right {
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-size: smaller;
+  padding: 0;
+}
+
+img.scaled {
+  width: 100%;
+}
+
+figure.left {
+  float: left;
+  width: 30%;
+  text-align: left;
+  font-size: smaller;
+  padding: 0;
+}
+
 code {
   font-size: 87.5%;
   color: #e83e8c;
