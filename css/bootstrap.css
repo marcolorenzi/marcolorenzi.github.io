@@ -521,7 +521,7 @@ figure.right {
   float: right;
   width: 30%;
   text-align: center;
-  font-size: smaller;
+  font-size: small;
   padding: 0;
 }
 
