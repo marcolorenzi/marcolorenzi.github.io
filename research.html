@@ -32,7 +32,7 @@
           <a class="nav-link" href="./teaching.html">Teaching</a>
         </li>
       </ul>
-      </form>
+
     </div>
   </nav>
 
@@ -43,6 +43,60 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-My research
-</body>
+  <div class="container">
+  <div class="jumbotron">
+
+      <div class="card border-success mb-3" >
+        <div class="card-header">Gaussian Processes for temporal analysis of clinical data</div>
+        <div class="card-body">
+            <p class="card-text"> I'm interested in the study of learning algorithms for modeling and predicting longitudinal changes in imaging, clinical and biological data. We can think of time series of patients' data as measurements from an underlying disease progression trajectory spanning several years (left figure, top). Yet, when we observe the patients during a clinical trial, the disease time information is unknown (left figure bottom). This fascinating research topic aims at reconstructing the natural history of a pathology from individual time series of clinical data.</p>
+            
+             <div>
+        <img style="margin-left:250px;" src="./img/animated.gif" title="time reparameterization" height="300" />
+      </div>
+      
+        </div>
+    </div>    
+
+     <div class="card border-success mb-3" >
+        <div class="card-header">Imaging Genetics</div>
+        <div class="card-body">
+            <p class="card-text">
+      One of my main research axis consists in studying the relationship between brain phenotypes quantified by neuroimaging (such as atrophy, or connectivity) and individual's genetic profile. This challenging research field requires the development of efficient and powerful statistical models for studying multivariate patterns of associations between imaging and genetics data. The circle plot on the left shows the genetic locations significantly associated to the brain cortical thinning shown on the right hand side.
+
+      <div>
+        <img style="margin-left:150px;" src="./img/PLS_example_20161110_v2.png" title="genome weel" height="250" />
+        <img src="./img/brain.gif" title="rotating brain" height="200"/>
+      </div>
+         
+         </div>
+    </div>
+
+
+     <div class="card border-success mb-3" >
+        <div class="card-header"> Sparsity and dimensionality reduction in brain imaging data analysis</div>
+        <div class="card-body">
+            <p class="card-text">
+                I've been working in the analysis of the joint variation between multimodal brain imaging modalities, such as the brain atrophy measured in magnetic resonance images (MRIs), and the hypometabolism quantified by FDG-PET radiotracers. The video shows that the non-local correlation between atrophy and hypomethabolism in Alzheimer's patients is identified by localised subcortical temporal atrophy and ventricular enlargement, a pattern mostly associated with the hypometabolism of the temporal/parietal cortex.
+
+
+         </div>
+    </div>
+
+
+
+<!--
+<h2> Image registration and Geometry </h2>
+I’m interested in the development and study of non-linear registration algorithms to reliably detect morphological changes. The figure below shows the parameters of the diffeomorphic transformation of longitudinal brain atrophy in Alzheimer's disease (left), and the associated spatio-temporal model of brain changes (right). We note that the registration model accurately describes the global brain atrophy, as well as the ventricular expansion and hippocampal atrophy.
+
+
+
+
+
+LCC-logDemons is an accurate and robust diffeomorphic image registration framework addressed to the whole medical imaging community. The software is released with free license for research purposes. LCC-logDemons is open source and is based on ITK, a popular C++ medical imaging library.
+-->
+
+      </div>
+</div> 
+
 </html>
