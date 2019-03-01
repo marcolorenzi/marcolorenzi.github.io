@@ -5272,6 +5272,18 @@ input[type="button"].btn-block {
   }
 }
 
+
+/* start my modification*/
+
+.image-txt-container {
+  display:flex;
+  align-items:center;
+  flex-direction: row;
+}
+
+/* end my modification */
+
+
 a.badge:hover, a.badge:focus {
   text-decoration: none;
 }
