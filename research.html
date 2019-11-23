@@ -33,7 +33,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="./positions.html">Open positions</a>
-        </li>  
+        </li>
       </ul>
 
     </div>
@@ -117,17 +117,38 @@
     </div>
 
 
+         <p>Collapsible Set:</p>
+<button class="collapsible">Open Section 1</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">Open Section 2</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">Open Section 3</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
 
-<!--
-<h2> Image registration and Geometry </h2>
-I’m interested in the development and study of non-linear registration algorithms to reliably detect morphological changes. The figure below shows the parameters of the diffeomorphic transformation of longitudinal brain atrophy in Alzheimer's disease (left), and the associated spatio-temporal model of brain changes (right). We note that the registration model accurately describes the global brain atrophy, as well as the ventricular expansion and hippocampal atrophy.
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
 
-
-
-
-
-LCC-logDemons is an accurate and robust diffeomorphic image registration framework addressed to the whole medical imaging community. The software is released with free license for research purposes. LCC-logDemons is open source and is based on ITK, a popular C++ medical imaging library.
--->
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+         
+         
 
       </div>
 </div> 
