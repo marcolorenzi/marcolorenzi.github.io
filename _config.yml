@@ -22,11 +22,11 @@ repository               : "marcolorenzi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Marco Lorenzi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher"
+  location         : "France"
+  employer         : "Inria"
   uri              : # URL
   email            : "none@example.org" 
 
