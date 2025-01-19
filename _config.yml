@@ -31,9 +31,9 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  arxiv            : https://arxiv.org/search/stat?searchtype=author&query=Lorenzi,+M # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=gOkjmJcAAAAJ&hl=it"
+ # impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
