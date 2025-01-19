@@ -23,4 +23,4 @@ Course Material all the material is available at this page.
 |Day 5 | /       |  [MCMC](https://marcolorenzi.github.io/material/Bayes/Lesson6_pystan3.0-no_solution.ipynb)     |      /       |         [McE]:Ch8, [Bet2018], [Stan]   |
 |Day 6 | /       | [Advanced MCMC (a)](https://marcolorenzi.github.io/material/Bayes/mcmc_lession.pdf)           |      /       |  [MCMC with Pyro (a) ](https://marcolorenzi.github.io/material/Bayes/pyro_mcmc.ipynb) [MCMC with Pyro (b)](https://marcolorenzi.github.io/material/Bayes/pyro_mcmc_2d.ipynb) | [McE]:Ch8, Ch10, [Pyro]|
 |Day 7 | /       |  [A primer on variational inference with Pyro](https://marcolorenzi.github.io/material/Bayes/pyro_variational_inference.ipynb)     |      /       |        [Pyro]  |
-|Day 8 | /       |   [Practical Variational Inference with Pyro ](https://marcolorenzi.github.io/material/Bayes/pyro_lin_model_exercise.ipynb) | Pyro]  |
+|Day 8 | /       |   [Practical Variational Inference with Pyro ](https://marcolorenzi.github.io/material/Bayes/pyro_lin_model_exercise.ipynb) | /  | [Pyro]  |
