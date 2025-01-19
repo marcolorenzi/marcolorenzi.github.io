@@ -26,9 +26,6 @@ author_profile: true
         *Automatic biomarker extraction in PET-CT images for immunotherapy in metastatic lung cancer.* 
 -	Ghiles Reguig. Start 2022. 
 	*Analysis of bias and image harmonisation in multi-centric imaging studies.* 
--	Francesco Cremonesi. Start 2021. 
-	*Knowledge-graphs to enrich biomarker extraction and analysis in medical imaging data.* 
-
 ### Interns
 
 - 	Giuseppe Antonio Orlando.
@@ -36,6 +33,8 @@ author_profile: true
 
 ### Research Engineers
 
+-	Francesco Cremonesi. Start 2021. 
+	*Knowledge-graphs to enrich biomarker extraction and analysis in medical imaging data.* 
 -	Yannick Bouillard. Start 2021. With SED team of Inria Sophia Antipolis. 
 	*Development of the federated learning software Fed-BioMed.* 
 
@@ -86,7 +85,5 @@ author_profile: true
 
 ### Research Engineers
 
-- [Francesco Cremonesi](https://www.linkedin.com/in/francesco-cremonesi-7010b164/).
-  Currently postdoc at Inria
--[Sergen Cansiz](https://www.linkedin.com/in/sergencansiz/). 
+- [Sergen Cansiz](https://www.linkedin.com/in/sergencansiz/). 
   Currently permanent Research Engineer at Inria. 	
