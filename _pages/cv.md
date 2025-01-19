@@ -33,7 +33,7 @@ Università degli studi di Torino, 2006
 
 Awards
 ======
-##Personal Awards:
+### Personal Awards:
 
 - 2020-2028. Chair holder at 3IA Côte d’Azur (axis Core Elements of AI). 
 - 2018-2024. Inria Research and Doctoral Supervision Award (RIPEC)
@@ -43,7 +43,7 @@ Awards
 - 2011 Erbsmann Award Honorable Mention, Conference IPMI/
 *One of the most prestigious awards of the medical imaging community*
 
-##As Research Director:
+### As Research Director:
 
 - 2024 UNICANCER Innovation Award to projet Federated-PET\
 *Co-PI with Dr. O. Humbert, Hospital A. Lacassagne, Nice, France*
