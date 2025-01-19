@@ -35,12 +35,14 @@ Awards
 ======
 ### Personal Awards:
 
+- 2024. UNICANCER Innovation Award for the project Federated-PET\
+*Co-PI with Prof. Olivier Humbert (Centre Antoine Lacassagne, France)*
 - 2020-2028. Chair holder at 3IA Côte d’Azur (axis Core Elements of AI). 
 - 2018-2024. Inria Research and Doctoral Supervision Award (RIPEC).
 - 2018. Outstanding reviewer  of the conference NeurIPS 2018.
 - 2015. Second position ex-aequo for the 2015 ERCIM Cor Baayen Award.\
 *Most promising European young researcher in computer science and applied mathematics*
-- 2011 Erbsmann Award Honorable Mention, Conference IPMI/
+- 2011 Erbsmann Award Honorable Mention, Conference IPMI\
 *One of the most prestigious awards of the medical imaging community*
 
 ### As Research Director:
@@ -67,7 +69,7 @@ Services to the Community
 
 ##  Editorial Activity:
 
--	Associate Editor of Medical Image Analysis (Elsevier) since 2021 (handling 2/3 papers/month)
+-	Associate Editor of Medical Image Analysis (Elsevier) since 2021. 
 -	Editorial Board Member of Scientific Reports (Nature Publishing Group) from 2014 to 2021. 
 
 ##  Organisation of Scientific Events (selection)
@@ -81,7 +83,7 @@ Services to the Community
 
 Fundings
 =====
-## Multi-modal biomedical data analysis & disease progression modeling
+### Multi-modal biomedical data analysis & disease progression modeling
 
 -	Michael J. Fox Foundation for Parkinson’s Research. Multimodal Dynamic Modelling and Prediction of Parkinsonian Symptom Progression. **WP leader** (2023-2027, 800k€, Inria funding: 200k€). PI Dr. B. Gutman (Illinois Institute of Technology, USA.)\
 	*Disease progression modelling in Parkinson's Disease.* 
@@ -92,7 +94,7 @@ Fundings
 -	Departement des Alpes Maritimes (PACA). Project Big Data for brain research (70k€). **PI**. \
 `	*Large-scale imaging-genetics analysis in brain disorders.*
 
-## Multi-centric biomedical data analysis & federated learning
+### Multi-centric biomedical data analysis & federated learning
 
 -       ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025-2029, 700k€, Inria funding: 300 k€). **PI**\
 	*ML-Ops for federated learning in healthcare* 
