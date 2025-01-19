@@ -36,7 +36,7 @@ Awards
 ### Personal Awards:
 
 - 2020-2028. Chair holder at 3IA Côte d’Azur (axis Core Elements of AI). 
-- 2018-2024. Inria Research and Doctoral Supervision Award (RIPEC)
+- 2018-2024. Inria Research and Doctoral Supervision Award (RIPEC).
 - 2018. Outstanding reviewer  of the conference NeurIPS 2018.
 - 2015. Second position ex-aequo for the 2015 ERCIM Cor Baayen Award.\
 *Most promising European young researcher in computer science and applied mathematics*
