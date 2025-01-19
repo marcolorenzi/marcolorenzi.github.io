@@ -33,7 +33,6 @@ Università degli studi di Torino, 2006
 
 Services to the Community 
 ======
-
 ## Conference Area Chair:
 
 -	Neural Information Processing Systems (NeurIPS 2023, NeurIPS 2024), 
@@ -56,8 +55,7 @@ Services to the Community
 
 Fundings
 =====
-
-### Multi-modal biomedical data analysis & disease progression modeling
+## Multi-modal biomedical data analysis & disease progression modeling
 
 -	Michael J. Fox Foundation for Parkinson’s Research. Multimodal Dynamic Modelling and Prediction of Parkinsonian Symptom Progression. **WP leader** (2023-2027, 800k€, Inria funding: 200k€). PI Dr. B. Gutman (Illinois Institute of Technology, USA.)\
 	*Disease progression modelling in Parkinson's Disease.* 
@@ -68,8 +66,10 @@ Fundings
 -	Departement des Alpes Maritimes (PACA). Project Big Data for brain research (70k€). **PI**. \
 `	*Large-scale imaging-genetics analysis in brain disorders.*
 
-### Multi-centric biomedical data analysis & federated learning
+## Multi-centric biomedical data analysis & federated learning
 
+-       ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025-2029, 700k€, Inria funding: 300 k€). **PI**\
+	*ML-Ops for federated learning in healthcare* 
 -	ANR. JCJC project Fed-BioMed (2019-2023, 200k€). **PI**. \
         *Federated learning for healthcare applications.* 
 -	Franco-German bilateral program for AI. Project Trustworthy and Robust Artificial Intelligence (TRAIN) (2023-2027, 1.2M€, Inria funding: 350 k€). **PI for the French consortium**. German PI: Prof. Ghassan Karame (Ruhr-University Bochum). With EURECOM (France), Fraunhofer and Ruhr-University Bochum (Germany). 
