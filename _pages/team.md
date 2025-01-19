@@ -23,7 +23,7 @@ author_profile: true
 
 -	Alessandro Viani. Start 2024. \
 	*Time-series clustering for subtype discovery in disease progression modeling.* 
--	Lucie Chambon. Start 2024. Collaboration with Centre Antoine Lacassagne (Nice, France).\ 
+-	Lucie Chambon. Start 2024. Collaboration with Centre Antoine Lacassagne (Nice, France).\
         *Automatic biomarker extraction in PET-CT images for immunotherapy in metastatic lung cancer.* 
 -	Ghiles Reguig. Start 2022. \
 	*Analysis of bias and image harmonisation in multi-centric imaging studies.* 
