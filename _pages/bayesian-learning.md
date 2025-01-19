@@ -25,7 +25,9 @@ Course Material all the material is available at this page.
 |Day 7 | /       |  [A primer on variational inference with Pyro](https://marcolorenzi.github.io/material/Bayes/pyro_variational_inference.ipynb)     |      /       |        [Pyro]  |
 |Day 8 | /       |   [Practical Variational Inference with Pyro ](https://marcolorenzi.github.io/material/Bayes/pyro_lin_model_exercise.ipynb) | /  | [Pyro]  |
 
-References
+
+
+References:
 
 - **[BDA]**. *Bayesian Data Analysis*.  A. Gelman, J.B. Carlin, H.S. Stern, D.B. Dunson, A. Vehtari, D.B. Rubin; Chapman and Hall/CRC, 2014, 3rd Edition.
 - **[McE]** *Statistical Rethinking*.  R. McElreath; Chapman and Hall/CRC, 2016, 3rd Edition
