@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 Requirements:
-- Minimal background in mathematics and statistic</li>
-- Analysis and calculus (integral, derivatives, study of functions, … )</li>
+- Minimal background in mathematics and statistic
+- Analysis and calculus (integral, derivatives, study of functions, … )
 - Basic statistics concepts 
 - Basic expertise with Python and Jupyter Notebook
 
