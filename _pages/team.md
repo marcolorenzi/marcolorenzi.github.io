@@ -14,9 +14,9 @@ author_profile: true
 
 -       Huyen Trang Nguyen. Start 2024. With Dr. O. Humbert (Centre Antoint Lacassagne).\
 	*Multimodal PET/CT image analysis  to improve the response to immunotherapy in lung cancer.*
--	Wassila Khatir. Start 2023. Co-supervisor with Dr. Irene Balelli (Inria Epione) and Dr. Carole Gwizdek (IPMC CNRS).\
+-	Wassila Khatir. Start 2023. With Dr. Irene Balelli (Inria Epione) and Dr. Carole Gwizdek (IPMC CNRS).\
 	*Probabilistic approaches for multimodal data analysis in multi-omics applications.* 
--	Martin Van Waerebeke. Start 2023. Co-supervisor with Dr. Kevin Scaman (Inria Argo) and Giovanni Neglia (Inria Neo).\
+-	Martin Van Waerebeke. Start 2023. With Dr. Kevin Scaman (Inria Argo) and Giovanni Neglia (Inria Neo).\
 	*Theoretical approaches to Machine Unearning.*
 
 ### Postdocs
