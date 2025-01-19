@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Ongoing
+## Current
 ### PhD students
 
 -       Huyen Trang Nguyen. Start 2024. With Dr. O. Humbert (Centre Antoint Lacassagne).\ 
@@ -38,6 +38,7 @@ author_profile: true
 -	Yannick Bouillard. Start 2021. With SED team of Inria Sophia Antipolis.\ 
 	*Development of the federated learning software Fed-BioMed.* 
 
+---
 
 ## Alumni
 
