@@ -18,6 +18,7 @@ author_profile: true
 	*Probabilistic approaches for multimodal data analysis in multi-omics applications.* 
 -	Martin Van Waerebeke. Start 2023. Co-supervisor with Dr. Kevin Scaman (Inria Argo) and Giovanni Neglia (Inria Neo).\ 
 	*Thereotical approaches to Machine Unearning.*
+
 ### Postdocs
 
 -	Alessandro Viani. Start 2024. \
@@ -26,6 +27,7 @@ author_profile: true
         *Automatic biomarker extraction in PET-CT images for immunotherapy in metastatic lung cancer.* 
 -	Ghiles Reguig. Start 2022. \
 	*Analysis of bias and image harmonisation in multi-centric imaging studies.* 
+
 ### Interns
 
 - 	Giuseppe Antonio Orlando.\
