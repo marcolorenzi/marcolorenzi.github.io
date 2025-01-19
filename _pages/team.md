@@ -12,12 +12,12 @@ author_profile: true
 ## Current
 ### PhD students
 
--       Huyen Trang Nguyen. Start 2024. With Dr. O. Humbert (Centre Antoint Lacassagne).\ 
+-       Huyen Trang Nguyen. Start 2024. With Dr. O. Humbert (Centre Antoint Lacassagne).\
 	*Multimodal PET/CT image analysis  to improve the response to immunotherapy in lung cancer.*
--	Wassila Khatir. Start 2023. Co-supervisor with Dr. Irene Balelli (Inria Epione) and Dr. Carole Gwizdek (IPMC CNRS).\ 
+-	Wassila Khatir. Start 2023. Co-supervisor with Dr. Irene Balelli (Inria Epione) and Dr. Carole Gwizdek (IPMC CNRS).\
 	*Probabilistic approaches for multimodal data analysis in multi-omics applications.* 
--	Martin Van Waerebeke. Start 2023. Co-supervisor with Dr. Kevin Scaman (Inria Argo) and Giovanni Neglia (Inria Neo).\ 
-	*Thereotical approaches to Machine Unearning.*
+-	Martin Van Waerebeke. Start 2023. Co-supervisor with Dr. Kevin Scaman (Inria Argo) and Giovanni Neglia (Inria Neo).\
+	*Theoretical approaches to Machine Unearning.*
 
 ### Postdocs
 
@@ -37,7 +37,7 @@ author_profile: true
 
 -	Francesco Cremonesi. Start 2021. \
 	*Knowledge-graphs to enrich biomarker extraction and analysis in medical imaging data.* 
--	Yannick Bouillard. Start 2021. With SED team of Inria Sophia Antipolis.\ 
+-	Yannick Bouillard. Start 2021. With SED team of Inria Sophia Antipolis.\
 	*Development of the federated learning software Fed-BioMed.* 
 
 ---
