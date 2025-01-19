@@ -8,13 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-## [Model Selection and Resampling Methods](/teaching/bayesian-learning/)
+## [Bayesian Learning](/teaching/bayesian-learning/)
 ======
 Master Course in Data Science, Université Côte d'Azur
-M1, second semester
+M2, first semester, 30 hours
 
 
-## Bayesian Learning
+## Model Selection and Resampling Methods
 ======
 Master Course in Data Science, Université Côte d'Azur
-M2, first semester
+M1, second semester, 30 hours
