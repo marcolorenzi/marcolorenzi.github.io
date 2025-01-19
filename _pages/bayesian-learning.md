@@ -26,9 +26,10 @@ Course Material all the material is available at this page.
 |Day 8 | /       |   [Practical Variational Inference with Pyro ](https://marcolorenzi.github.io/material/Bayes/pyro_lin_model_exercise.ipynb) | /  | [Pyro]  |
 
 References
-      - [BDA]. Bayesian Data Analysis.  A. Gelman, J.B. Carlin, H.S. Stern, D.B. Dunson, A. Vehtari, D.B. Rubin; Chapman and Hall/CRC, 2014, 3rd Edition.
-    - [McE] Statistical Rethinking.  R. McElreath; Chapman and Hall/CRC, 2016, 3rd Edition.
-    - [Bet2018] A Conceptual Introduction to Hamiltonian Monte Carlo.  M. Betancourt; [ArXiv](https://arxiv.org/abs/1701.02434)
-    - [Stan] [Stan Documentation](https://mc-stan.org/users/documentation/). Stan Development Team. 
-    - [Pyro] [Pyro website](https://pyro.ai/)
+
+      - **[BDA]**. *Bayesian Data Analysis*.  A. Gelman, J.B. Carlin, H.S. Stern, D.B. Dunson, A. Vehtari, D.B. Rubin; Chapman and Hall/CRC, 2014, 3rd Edition.
+    - **[McE]** *Statistical Rethinking*.  R. McElreath; Chapman and Hall/CRC, 2016, 3rd Edition
+    - **[Bet2018]** *A Conceptual Introduction to Hamiltonian Monte Carlo*.  M. Betancourt; [ArXiv](https://arxiv.org/abs/1701.02434)
+    - **[Stan]** [*Stan Documentation*](https://mc-stan.org/users/documentation/). Stan Development Team
+    - **[Pyro]** [*Pyro website*](https://pyro.ai/)
 
