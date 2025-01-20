@@ -1,6 +1,6 @@
 ---
 title: "Multimodal Biomedical data analysis"
-excerpt: "<br/><img src='/img/PLS_example_20161110_v2.png' width='300'> <img src='/img/brain.gif'  width='400'>"
+excerpt: "<br/><img src='/img/PLS_example_20161110_v2.png' width='100'> <img src='/img/brain.gif'  width='133'>"
 collection: portfolio
 ---
 
