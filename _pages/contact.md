@@ -1,18 +1,21 @@
+---
+layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
 
-Contact
+{% include base_path %}
 
-Postal address:
-EURECOM
-Campus SophiaTech
-Data Science Department
-450 route des Chappes
-06410 Biot Sophia Antipolis cedex, France
 
-In campus:
-Room 427
+EPIONE Research Team
+Centre Inria d'Université Côte d'Azur
+2004 Rte des Lucioles
+06902 Valbonne
 
 Phone:
-+33 (0)4 - 9300 8125
++33 (0) 4 92 38 76 62
 
 Mail:
-contact
+
+
