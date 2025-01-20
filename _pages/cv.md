@@ -33,9 +33,9 @@ Università degli studi di Torino, 2006
 
 <details>
   <summary style="border: 1px solid #ccc; padding: 5px;">
-  <div style="border: 1px solid #ccc; padding: 10px;">
   <h1> Awards </h1> 
   </summary>
+<div style="border: 1px solid #ccc; padding: 10px;">	
   <br>
 	
 <h3> Personal Awards: </h3>
