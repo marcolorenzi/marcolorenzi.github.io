@@ -125,7 +125,7 @@ Università degli studi di Torino, 2006
 `	<em> Large-scale imaging-genetics analysis in brain disorders. </em> </li>
 </ul>
 
-<h3> Multi-centric biomedical data analysis & federated learning </h3>
+<h3> Research Area: Multi-centric biomedical data analysis & federated learning </h3>
 <ul>
 <li> ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025-2029, 700k€, Inria funding: 300 k€). <br>PI.</b>
 	<br>
