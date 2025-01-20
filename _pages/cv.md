@@ -127,7 +127,7 @@ Università degli studi di Torino, 2006
 
 <h3> Research Area: Multi-centric biomedical data analysis & federated learning </h3>
 <ul>
-<li> ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025-2029, 700k€, Inria funding: 300 k€). <br>PI.</b>
+<li> ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025-2029, 700k€, Inria funding: 300 k€). <b>PI.</b>
 	<br>
 	<em> ML-Ops for federated learning in healthcare </em>  </li>
 
