@@ -31,33 +31,36 @@ Università degli studi di Torino, 2006
 - **B.S. in Mathematics**.\
  Università degli studi di Torino, 2004
 
-Awards
-======
-### Personal Awards:
+<details>
+  <summary>
+  <h2> Awards </h2> 
+  </summary>
+  <br>
+  ### Personal Awards:
 
-- 2024. UNICANCER Innovation Award for the project Federated-PET\
-*Co-PI with Prof. Olivier Humbert (Centre Antoine Lacassagne, France)*
-- 2020-2028. Chair holder at 3IA Côte d’Azur (axis Core Elements of AI). 
-- 2018-2024. Inria Research and Doctoral Supervision Award (RIPEC).
-- 2018. Outstanding reviewer  of the conference NeurIPS 2018.
-- 2015. Second position ex-aequo for the 2015 ERCIM Cor Baayen Award.\
-*Most promising European young researcher in computer science and applied mathematics*
-- 2011 Erbsmann Award Honorable Mention, Conference IPMI\
-*One of the most prestigious awards of the medical imaging community*
+  - 2024. UNICANCER Innovation Award for the project Federated-PET\
+  *Co-PI with Prof. Olivier Humbert (Centre Antoine Lacassagne, France)*
+  - 2020-2028. Chair holder at 3IA Côte d’Azur (axis Core Elements of AI). 
+  - 2018-2024. Inria Research and Doctoral Supervision Award (RIPEC).
+  - 2018. Outstanding reviewer  of the conference NeurIPS 2018.
+  - 2015. Second position ex-aequo for the 2015 ERCIM Cor Baayen Award.\
+  *Most promising European young researcher in computer science and applied mathematics*
+  - 2011 Erbsmann Award Honorable Mention, Conference IPMI\
+  *One of the most prestigious awards of the medical imaging community*
 
-### As Research Director:
+  ### As Research Director:
 
-- 2024 UNICANCER Innovation Award to projet Federated-PET\
-*Co-PI with Dr. O. Humbert, Hospital A. Lacassagne, Nice, France*
-- 2022 Yann Fraboni (PhD). Best thesis award\
-*From Doctoral School STIC, Université Côte d’Azur*
-- 2022 Yann Fraboni (PhD). Best paper award\
-*International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022.*
-- 2021 Andrea Senacheribbe (MSc). Best Master Thesis Award\
-*From Politecnico di Torino*
-- 2019 Sara Garbarino (Postdoc). Erbsmann award, Conference IPMI\
-*One of the most prestigious awards of the medical imaging community*
-
+  - 2024 UNICANCER Innovation Award to projet Federated-PET\
+  *Co-PI with Dr. O. Humbert, Hospital A. Lacassagne, Nice, France*
+  - 2022 Yann Fraboni (PhD). Best thesis award\
+  *From Doctoral School STIC, Université Côte d’Azur*
+  - 2022 Yann Fraboni (PhD). Best paper award\
+  *International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022.*
+  - 2021 Andrea Senacheribbe (MSc). Best Master Thesis Award\
+  *From Politecnico di Torino*
+  - 2019 Sara Garbarino (Postdoc). Erbsmann award, Conference IPMI\
+  *One of the most prestigious awards of the medical imaging community*
+</details>
 
 Services to the Community 
 ======
