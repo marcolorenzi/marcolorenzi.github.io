@@ -32,10 +32,9 @@ Università degli studi di Torino, 2006
  Università degli studi di Torino, 2004
 
 <details>
-  <summary style="border: 1px solid #ccc; padding: 5px;">
+  <summary>
   <h1> Awards </h1> 
   </summary>
-<div style="border: 1px solid #ccc; padding: 10px;">	
   <br>
 	
 <h3> Personal Awards: </h3>
@@ -69,7 +68,6 @@ Università degli studi di Torino, 2006
 <br>
   <em> One of the most prestigious awards of the medical imaging community </em></li>
 </ul>
-</div>
 </details>
 
 <details>
