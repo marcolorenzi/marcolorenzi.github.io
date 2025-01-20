@@ -1,6 +1,6 @@
 ---
 title: "Federated learning in biomedical applications"
-excerpt: "<br/>  <img style="margin-left:250px;" src="https://fedbiomed.gitlabpages.inria.fr/assets/img/fl-graph.png" title="federated learning in healthcare" height="100" />
+excerpt: "<br/>  <img src='https://fedbiomed.gitlabpages.inria.fr/assets/img/fl-graph.png' height='100' />
 "
 collection: portfolio
 ---
