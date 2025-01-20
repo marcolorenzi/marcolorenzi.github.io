@@ -28,7 +28,7 @@ author:
   location         : "France"
   employer         : "Inria"
   uri              : # URL
-  email            : "none@example.org" 
+  #email            : "none@example.org" 
 
   # Academic websites
   arxiv            : https://arxiv.org/search/stat?searchtype=author&query=Lorenzi,+M # URL - Update with the correct link to your profile
