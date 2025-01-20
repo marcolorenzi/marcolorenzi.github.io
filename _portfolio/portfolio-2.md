@@ -1,6 +1,6 @@
 ---
 title: "Spatio-temporal analysis of biomedical data"
-excerpt: "<br/><img src="https://disease-progression-modelling.github.io/_static/img/gppm/full_brain.gif" height="100"/>"
+excerpt: "<br/><img src='https://disease-progression-modelling.github.io/_static/img/gppm/full_brain.gif' height='100'/>"
 collection: portfolio
 ---
 
