@@ -133,13 +133,13 @@ Università degli studi di Torino, 2006
 	<br>
 	<em> ML-Ops for federated learning in healthcare </em>  </li>
 
-<li> ANR. JCJC project Fed-BioMed (2019-2023, 200k€). **PI**. 
+<li> ANR. JCJC project Fed-BioMed (2019-2023, 200k€). <b>PI</b>. 
 	<br>
         <em> Federated learning for healthcare applications. </em>  </li>
 
 <li> Franco-German bilateral program for AI. Project Trustworthy and Robust Artificial Intelligence (TRAIN) (2023-2027, 1.2M€, Inria funding: 350 k€). <b>PI for the French consortium</b>. German PI: Prof. Ghassan Karame (Ruhr-University Bochum). With EURECOM (France), Fraunhofer and Ruhr-University Bochum (Germany). </li>
 
-<li> Institut National du Cancer (INCa). FEDERATED-PET (2022-2026, 1M€, Inria funding: 300k€). <br>Co-PI</b> with Prof. O. Humbert (Hospital Centre Antoine Lacassagne, France).
+<li> Institut National du Cancer (INCa). FEDERATED-PET (2022-2026, 1M€, Inria funding: 300k€). <b>Co-PI</b> with Prof. O. Humbert (Hospital Centre Antoine Lacassagne, France).
 	<br>
 	<em> French federated infrastructure for cancer image analysis. </em>       </li>               
 
