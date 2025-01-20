@@ -31,7 +31,7 @@ author_profile: true
 ### Interns
 
 - 	Giuseppe Antonio Orlando.\
-	*Multi-modal image analysis synthesis.*
+	*Generative models for multi-modal image synthesis.*
 
 ### Research Engineers
 
