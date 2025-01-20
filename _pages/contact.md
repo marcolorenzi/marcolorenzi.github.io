@@ -19,7 +19,7 @@ Centre Inria d'Université Côte d'Azur\
 
 ### Email:
 ![](https://github.com/marcolorenzi/marcolorenzi.github.io/blob/master/img/text1.png)\
-<img src="https://github.com/marcolorenzi/marcolorenzi.github.io/blob/master/img/text1.png" alt="email">
+<img src="/img/text1.png" alt="email">
 
 
 
