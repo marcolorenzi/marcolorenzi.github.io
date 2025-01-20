@@ -33,10 +33,10 @@ Università degli studi di Torino, 2006
 
 <details>
   <summary>
-  <h2> Awards </h2> 
+  <h1> Awards </h1> 
   </summary>
   <br>
-  ### Personal Awards:
+  Personal Awards:
 
   - 2024. UNICANCER Innovation Award for the project Federated-PET\
   *Co-PI with Prof. Olivier Humbert (Centre Antoine Lacassagne, France)*
