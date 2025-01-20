@@ -18,7 +18,6 @@ Centre Inria d'Université Côte d'Azur\
 +33 (0) 4 92 38 76 62
 
 ### Email:
-![](https://github.com/marcolorenzi/marcolorenzi.github.io/blob/master/img/text1.png)\
 <img src="/img/text1.png" alt="email">
 
 
