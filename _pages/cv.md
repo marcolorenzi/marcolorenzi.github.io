@@ -36,34 +36,37 @@ Università degli studi di Torino, 2006
   <h1> Awards </h1> 
   </summary>
   <br>
-  Personal Awards:
+	
+### Personal Awards:
+	
+- (2020-2028) Chair holder at 3IA Côte d’Azur (axis Core Elements of AI). 
+- (2018-2024) Inria Research and Doctoral Supervision Award (RIPEC).
+- (2018) Outstanding reviewer  of the conference NeurIPS 2018.
+- (2015) Second position ex-aequo for the 2015 ERCIM Cor Baayen Award.\
+          *Most promising European young researcher in computer science and applied mathematics*
+- (2011) Erbsmann Award Honorable Mention, Conference IPMI\
+    *One of the most prestigious awards of the medical imaging community*
 
-  - 2024. UNICANCER Innovation Award for the project Federated-PET\
-  *Co-PI with Prof. Olivier Humbert (Centre Antoine Lacassagne, France)*
-  - 2020-2028. Chair holder at 3IA Côte d’Azur (axis Core Elements of AI). 
-  - 2018-2024. Inria Research and Doctoral Supervision Award (RIPEC).
-  - 2018. Outstanding reviewer  of the conference NeurIPS 2018.
-  - 2015. Second position ex-aequo for the 2015 ERCIM Cor Baayen Award.\
-  *Most promising European young researcher in computer science and applied mathematics*
-  - 2011 Erbsmann Award Honorable Mention, Conference IPMI\
-  *One of the most prestigious awards of the medical imaging community*
+### As Research Director:
 
-  ### As Research Director:
-
-  - 2024 UNICANCER Innovation Award to projet Federated-PET\
+- (2024) UNICANCER Innovation Award to projet Federated-PET\
   *Co-PI with Dr. O. Humbert, Hospital A. Lacassagne, Nice, France*
-  - 2022 Yann Fraboni (PhD). Best thesis award\
+- (2022) Yann Fraboni (PhD). Best thesis award\
   *From Doctoral School STIC, Université Côte d’Azur*
-  - 2022 Yann Fraboni (PhD). Best paper award\
+- (2022) Yann Fraboni (PhD). Best paper award\
   *International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022.*
-  - 2021 Andrea Senacheribbe (MSc). Best Master Thesis Award\
+- (2021) Andrea Senacheribbe (MSc). Best Master Thesis Award\
   *From Politecnico di Torino*
-  - 2019 Sara Garbarino (Postdoc). Erbsmann award, Conference IPMI\
+- (2019) Sara Garbarino (Postdoc). Erbsmann award, Conference IPMI\
   *One of the most prestigious awards of the medical imaging community*
 </details>
 
-Services to the Community 
-======
+<details>
+  <summary>
+  <h1> Services to the Community  </h1> 
+  </summary>
+  <br>
+
 ## Conference Area Chair:
 
 -	Neural Information Processing Systems (NeurIPS 2023, NeurIPS 2024), 
@@ -84,8 +87,15 @@ Services to the Community
 -	Organizer of a one-day hands-on session on the software Fed-BioMed to the Winter School AI4Health (HDH and 3IA) in 2021 and 2022, and to the Inria DFKI Summer School (2021).
 -	Co-organiser of the Tutorial “Disease progression modeling with cross-sectional and longitudinal data”, presented at the International Conference Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, and at at the International Symposium of Biomedical Imaging (ISBI) 2021. 
 
-Fundings
-=====
+</details>
+
+
+<details>
+  <summary>
+  <h1> Fundings  </h1> 
+  </summary>
+  <br>
+
 ### Multi-modal biomedical data analysis & disease progression modeling
 
 -	Michael J. Fox Foundation for Parkinson’s Research. Multimodal Dynamic Modelling and Prediction of Parkinsonian Symptom Progression. **WP leader** (2023-2027, 800k€, Inria funding: 200k€). PI Dr. B. Gutman (Illinois Institute of Technology, USA.)\
@@ -99,13 +109,14 @@ Fundings
 
 ### Multi-centric biomedical data analysis & federated learning
 
--       ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025-2029, 700k€, Inria funding: 300 k€). **PI**\
+- ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025-2029, 700k€, Inria funding: 300 k€). **PI.**\
 	*ML-Ops for federated learning in healthcare* 
--	ANR. JCJC project Fed-BioMed (2019-2023, 200k€). **PI**. \
+- ANR. JCJC project Fed-BioMed (2019-2023, 200k€). **PI**. \
         *Federated learning for healthcare applications.* 
--	Franco-German bilateral program for AI. Project Trustworthy and Robust Artificial Intelligence (TRAIN) (2023-2027, 1.2M€, Inria funding: 350 k€). **PI for the French consortium**. German PI: Prof. Ghassan Karame (Ruhr-University Bochum). With EURECOM (France), Fraunhofer and Ruhr-University Bochum (Germany). 
--	Institut National du Cancer (INCa). FEDERATED-PET (2022-2026, 1M€, Inria funding: 300k€). **Co-PI** with Prof. O. Humbert (Hospital Centre Antoine Lacassagne, France).\
+- Franco-German bilateral program for AI. Project Trustworthy and Robust Artificial Intelligence (TRAIN) (2023-2027, 1.2M€, Inria funding: 350 k€). **PI for the French consortium**. German PI: Prof. Ghassan Karame (Ruhr-University Bochum). With EURECOM (France), Fraunhofer and Ruhr-University Bochum (Germany). 
+- Institut National du Cancer (INCa). FEDERATED-PET (2022-2026, 1M€, Inria funding: 300k€). **Co-PI** with Prof. O. Humbert (Hospital Centre Antoine Lacassagne, France).\
 	*French federated infrastructure for cancer image analysis.*                      
 -	Horizon Europe. European Cancer Imaging Initiative (EUCAIM) (2023-2027, 17M€, Inria funding: 200k€). WP participant with 76 clinical and research partners across Europe. \
 	*Interoperability of federated learning platforms in a large network of European cancer hospitals.*
 
+</details>
