@@ -14,7 +14,7 @@ My research is on the theory and practical use-cases of federated learning (FL),
 
              
 <p float="left" align="middle">
-  <img style="margin-left:250px;" src="https://fedbiomed.gitlabpages.inria.fr/assets/img/fl-graph.png" title="federated learning in healthcare" height="300" />
+  <img style="margin-left:250px;" src="https://fedbiomed.gitlabpages.inria.fr/assets/img/fl-graph.png" title="federated learning in healthcare" height="150" />
 </p>
 
 ### Selected software and papers:
