@@ -154,9 +154,9 @@ Università degli studi di Torino, 2006
   </summary>
   <br>
 	
-<h3> Note: the list is work in progress: </h3>
+<h3> Note: the list is work in progress. </h3>
 
-</details>
+
 
 <ul>
 
@@ -176,4 +176,4 @@ Università degli studi di Torino, 2006
 
 </ul>
 
-
+</details>
