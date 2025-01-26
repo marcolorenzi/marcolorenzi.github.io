@@ -160,7 +160,7 @@ Università degli studi di Torino, 2006
 
 <ul>
 
-<li> 2024. Keynote Speaker the event Chirurgie 4.0 organised by the Académie Nationale de Chirurgie. </li>
+<li> 2024. Keynote Speaker at the event Chirurgie 4.0 organised by the Académie Nationale de Chirurgie. </li>
 <li> 2019. Lecture at the Colloque du Collège de France: L’imagerie médicale à l’heure de l’IA. </li>
 <li> 2022. Invited Lecture at the MBZUAI Workshop on MBZUAI Workshop on Collaborative Learning (Abu Dhabi), organized by Prof. M. Jordan (UC Berkeley). </li>
 <li> 2021. Invited speaker at the 3rd Federated Learning Workshop, Sorbonne University Paris, organized by Owkin, Accenture Labs, and the Société Française de Statistique (SFdS). </li>
