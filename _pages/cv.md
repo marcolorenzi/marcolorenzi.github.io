@@ -146,3 +146,34 @@ Università degli studi di Torino, 2006
 	<em> Interoperability of federated learning platforms in a large network of European cancer hospitals. </em> </li>
 </ul>
 </details>
+
+
+<details>
+  <summary>
+  <h1> Selection of invited talks </h1> 
+  </summary>
+  <br>
+	
+<h3> Note: the list is work in progress: </h3>
+
+</details>
+
+<ul>
+
+<li> 2024. Keynote Speaker the event Chirurgie 4.0 organised by the Académie Nationale de Chirurgie. </li>
+<li> 2019. Lecture at the Colloque du Collège de France: L’imagerie médicale à l’heure de l’IA. </li>
+<li> 2022. Invited Lecture at the MBZUAI Workshop on MBZUAI Workshop on Collaborative Learning (Abu Dhabi), organized by Prof. M. Jordan (UC Berkeley). </li>
+<li> 2021. Invited speaker at the 3rd Federated Learning Workshop, Sorbonne University Paris, organized by Owkin, Accenture Labs, and the Société Française de Statistique (SFdS). </li>
+<li> 2024. Keynote speaker at the 5th Progression over neurodegenerative disorders meeting (POND 2024) hosted at University College London (UK).  </li>
+<li> 2023. Invited speaker for the CVPR 2023 - 10th Workshop on Medical Computer Vision, Vancouver, Canada.  </li>
+<li> 2022. Invited Lecture at the Summer School on Biomedical Imaging, ETH Zurich and University of Zurich. </li>
+<li> 2022. Invited Lecture at the webinar Quantim, of the group Méthodes Quantitatives et Traitement de l’Information Médicale, Inserm, Aix-Marseille Université. </li>
+<li> 2021. Keynote speaker at IEEE EMBS Grand Challenges Forum on Data Science and Engineering in Healthcare.  </li>
+<li> 2021. Keynote at the MICCAI Workshop on Distributed And Collaborative Learning 2021.  </li>
+<li> 2020. Invited speaker at the European Glaucoma Society Congress 2020. </li>
+<li> 2020. Invited lecture at Symposia Multi-view Methods for Imaging Genetics (OHBM conference 2020). </li>
+<li> 2019. Invited lecture at Winter School on Imaging Genetics (University of Verona, Italy). </li>
+
+</ul>
+
+
