@@ -32,9 +32,13 @@ author_profile: true
 
 - 	Giuseppe Antonio Orlando.\
 	*Generative models for multi-modal image synthesis.*
+- 	Prabal Ghosh.\
+  	*Integration of semantic information from knowledge-graphs for medical image analysis in lung cancer applications.*
 
 ### Research Engineers
 
+-	Eléonore Birgy. Start 2025. \
+  	* Multi-omics analysis and data integration in rare disorders. *
 -	Francesco Cremonesi. Start 2021. \
 	*Knowledge-graphs to enrich biomarker extraction and analysis in medical imaging data.* 
 -	Yannick Bouillard. Start 2021. With SED team of Inria Sophia Antipolis.\
@@ -95,6 +99,7 @@ author_profile: true
 
 ## Visitors
 
+- 2025. [Cecile Rouzier](https://ern-euro-nmd.eu/contact/cecile-rouzier/), geneticist at Nice University Hospital (France) and responsible of the reference center of mitochondrial disorders CALISSON.
 - 2024. [Anna Custo](https://www.linkedin.com/in/anna-custo-4a6135/?originalSubdomain=ch), Senior Scientist at HUG - Hopitaux Universitaires de Genève.
 - 2023. [Catherine Scott](https://www.ucl.ac.uk/nuclear-medicine/people), Clinical Physicists at the Institute of Nuclear Medicine of University College London.
 - 2022. [Federica Cruciani](https://www.linkedin.com/in/federica-cruciani-178285142/?originalSubdomain=it)), PhD student in Computer Science and Medical Imaging at the Università degli Studi di Torino, Italy.
