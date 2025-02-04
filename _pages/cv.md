@@ -169,7 +169,21 @@ Università degli studi di Torino, 2006
 <li> 2020. Invited speaker at the European Glaucoma Society Congress 2020. </li>
 <li> 2020. Invited lecture at Symposia Multi-view Methods for Imaging Genetics (OHBM conference 2020). </li>
 <li> 2019. Invited lecture at Winter School on Imaging Genetics (University of Verona, Italy). </li>
+<li> 2025. Invited Speaker at the Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale (IABM 2025). </li>
 
 </ul>
+
+</details>
+
+<details>
+  <summary>
+  <h1> Societes </h1> 
+  </summary>
+  <br>
+
+I am member of the following societes:
+- [Ellis Society](https://ellis.eu/)
+-  [The Medical Image Computing and Computer Assisted Intervention Society](https://miccai.org/)
+
 
 </details>
