@@ -17,5 +17,5 @@ M2, first semester, 30 hours
 Master Course in Data Science, Université Côte d'Azur
 M1, second semester, 30 hours
 
-##  [Multimodal Data Analysis](/teaching/multimoda/)
+##  [Multimodal Data Analysis](/teaching/multimodal/)
 Tutorial on Multimodal Data analysis
