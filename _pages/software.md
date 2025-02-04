@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-### [Fed-BioMed](fedbiomed.org)
+### [Fed-BioMed](https://fedbiomed.org/)
 I am initiator and scientific responsible for the development of the software Fed-BioMed for federated learning in healthcare. The project has a dedicated team composed of 5 engineers, and enjoys contributions from a developers community through research partnerships and bilateral contracts with industry
 
 ### [GP-Progression Model](https://disease-progression-modelling.github.io/pages/notebooks/non_parametric_DPM/non_parametric_DPM.html)
