@@ -54,7 +54,7 @@ author_profile: true
   Current: CERN
 - [Etrit Haxholli](https://www.linkedin.com/in/etrithaxholli/).
   Current: AI Researcher at MetaDialog
-- [Yann Fraboni](Applied Research Scientist on ML and PET).
+- [Yann Fraboni](https://www.linkedin.com/in/yannfraboni/).
   Current: Applied Research Scientist at Alipay
 - [Santiago Silva](https://www.linkedin.com/in/baterosmith/).
   Current: Data Scientist at Volta Medical
@@ -99,9 +99,18 @@ author_profile: true
 
 ## Visitors
 
-- 2025. [Cecile Rouzier](https://ern-euro-nmd.eu/contact/cecile-rouzier/), geneticist at Nice University Hospital (France) and responsible of the reference center of mitochondrial disorders CALISSON.
-- 2024. [Anna Custo](https://www.linkedin.com/in/anna-custo-4a6135/?originalSubdomain=ch), Senior Scientist at HUG - Hopitaux Universitaires de Genève.
-- 2023. [Catherine Scott](https://www.ucl.ac.uk/nuclear-medicine/people), Clinical Physicists at the Institute of Nuclear Medicine of University College London.
-- 2022. [Federica Cruciani](https://www.linkedin.com/in/federica-cruciani-178285142/?originalSubdomain=it)), PhD student in Computer Science and Medical Imaging at the Università degli Studi di Torino, Italy.
-- 2019. [Peter Wijeratne](https://profiles.sussex.ac.uk/p596509-peter-wijeratne), Assistant Professor in Computer Science and Artificial Intelligence (AI) based at the Sussex AI Centre.
+<ul>
+	
+<it> 2025. <a href="https://ern-euro-nmd.eu/contact/cecile-rouzier/">Cécile Rouzier</a>, geneticist at Nice University Hospital (France) and responsible of the reference center of mitochondrial disorders CALISSON. </it>
+	
+<it> 2024. <a href="https://www.linkedin.com/in/anna-custo-4a6135/?originalSubdomain=ch">Anna Custo</a>, Senior Scientist at HUG - Hopitaux Universitaires de Genève. </it>
+
+<it> 2023.  <a href="https://www.ucl.ac.uk/nuclear-medicine/people">Catherine Scott</a>, Clinical Physicists at the Institute of Nuclear Medicine of University College London. </it>
+
+<it> 2022. <a href="https://www.linkedin.com/in/federica-cruciani-178285142/?originalSubdomain=it">Federica Cruciani</a>
+AI researcher medical imaging, IFOM ETS - the AIRC Institute of Molecular Oncology. </it>
+
+<it> 2019. <a href="https://profiles.sussex.ac.uk/p596509-peter-wijeratne">Peter Wijeratne</a>, Assistant Professor in Computer Science and Artificial Intelligence (AI) based at the Sussex AI Centre. </it>
+
+</ul>
 
