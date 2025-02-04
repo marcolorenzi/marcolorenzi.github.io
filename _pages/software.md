@@ -10,7 +10,7 @@ author_profile: true
 
 
 ### [Fed-BioMed](https://fedbiomed.org/)
-I am initiator and scientific responsible for the development of the software Fed-BioMed for federated learning in healthcare. The project has a dedicated team composed of 5 engineers, and enjoys contributions from a developers community through research partnerships and bilateral contracts with industry
+I am initiator and scientific responsible for the development of the software Fed-BioMed for federated learning in healthcare. Today, Fed-BioMed has a dedicated engineering team, and enjoys contributions from a developers community through research partnerships and bilateral contracts with industry.
 
 ### [GP-Progression Model](https://disease-progression-modelling.github.io/pages/notebooks/non_parametric_DPM/non_parametric_DPM.html)
 The Gaussian Process Progression Model (GPPM) is a model of disease progression estimating long-term biomarkers’ trajectories across the evolution of a disease, from the analysis of short-term individual measurements. The GPPM software is based on the gradient matching approach proposed in [Lorenzi and Filippone, ICML 2018](https://arxiv.org/abs/1802.05680). It has been first presented in the work [Lorenzi, NeuroImage 2017](https://pubmed.ncbi.nlm.nih.gov/29079521/), and subsequently extended in the GPPM-DS presented in [Garbarino and Lorenzi, IPMI 2019](https://doi.org/10.1002/alz.12083) and [Garbarino and Lorenzi, NeuroImage 2021](https://www.sciencedirect.com/science/article/pii/S1053811921002573).
