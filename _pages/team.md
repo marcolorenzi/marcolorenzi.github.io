@@ -90,3 +90,13 @@ author_profile: true
 
 - [Sergen Cansiz](https://www.linkedin.com/in/sergencansiz/). 
   Currently permanent Research Engineer at Inria. 	
+
+---
+
+## Visitors
+
+- 2024. [Anna Custo](https://www.linkedin.com/in/anna-custo-4a6135/?originalSubdomain=ch), Senior Scientist at HUG - Hopitaux Universitaires de Genève.
+- 2023. [Catherine Scott](https://www.ucl.ac.uk/nuclear-medicine/people), Clinical Physicists at the Institute of Nuclear Medicine of University College London.
+- 2022. [Federica Cruciani](https://www.linkedin.com/in/federica-cruciani-178285142/?originalSubdomain=it)), PhD student in Computer Science and Medical Imaging at the Università degli Studi di Torino, Italy.
+- 2019. [Peter Wijeratne](https://profiles.sussex.ac.uk/p596509-peter-wijeratne), Assistant Professor in Computer Science and Artificial Intelligence (AI) based at the Sussex AI Centre.
+
