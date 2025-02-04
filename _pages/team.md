@@ -101,16 +101,16 @@ author_profile: true
 
 <ul>
 	
-<it> 2025. <a href="https://ern-euro-nmd.eu/contact/cecile-rouzier/">Cécile Rouzier</a>, geneticist at Nice University Hospital (France) and responsible of the reference center of mitochondrial disorders CALISSON. </it>
+<il> 2025. <a href="https://ern-euro-nmd.eu/contact/cecile-rouzier/">Cécile Rouzier</a>, geneticist at Nice University Hospital (France) and responsible of the reference center of mitochondrial disorders CALISSON. </il>
 	
-<it> 2024. <a href="https://www.linkedin.com/in/anna-custo-4a6135/?originalSubdomain=ch">Anna Custo</a>, Senior Scientist at HUG - Hopitaux Universitaires de Genève. </it>
+<il> 2024. <a href="https://www.linkedin.com/in/anna-custo-4a6135/?originalSubdomain=ch">Anna Custo</a>, Senior Scientist at HUG - Hopitaux Universitaires de Genève. </il>
 
-<it> 2023.  <a href="https://www.ucl.ac.uk/nuclear-medicine/people">Catherine Scott</a>, Clinical Physicists at the Institute of Nuclear Medicine of University College London. </it>
+<il> 2023.  <a href="https://www.ucl.ac.uk/nuclear-medicine/people">Catherine Scott</a>, Clinical Physicists at the Institute of Nuclear Medicine of University College London. </il>
 
-<it> 2022. <a href="https://www.linkedin.com/in/federica-cruciani-178285142/?originalSubdomain=it">Federica Cruciani</a>
-AI researcher medical imaging, IFOM ETS - the AIRC Institute of Molecular Oncology. </it>
+<il> 2022. <a href="https://www.linkedin.com/in/federica-cruciani-178285142/?originalSubdomain=it">Federica Cruciani</a>
+AI researcher medical imaging, IFOM ETS - the AIRC Institute of Molecular Oncology. </il>
 
-<it> 2019. <a href="https://profiles.sussex.ac.uk/p596509-peter-wijeratne">Peter Wijeratne</a>, Assistant Professor in Computer Science and Artificial Intelligence (AI) based at the Sussex AI Centre. </it>
+<il> 2019. <a href="https://profiles.sussex.ac.uk/p596509-peter-wijeratne">Peter Wijeratne</a>, Assistant Professor in Computer Science and Artificial Intelligence (AI) based at the Sussex AI Centre. </il>
 
 </ul>
 
