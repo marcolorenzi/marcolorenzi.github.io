@@ -181,9 +181,10 @@ Università degli studi di Torino, 2006
   </summary>
   <br>
 
-I am member of the following societes:
-- [Ellis Society](https://ellis.eu/)
--  [The Medical Image Computing and Computer Assisted Intervention Society](https://miccai.org/)
-
+<p>I am member of the following societes:</p>
+<ul>
+<li> Ellis Society </li>
+<li> The Medical Image Computing and Computer Assisted Intervention Society </li>
+</ul>
 
 </details>
