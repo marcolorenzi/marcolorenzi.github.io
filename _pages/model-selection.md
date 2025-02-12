@@ -18,6 +18,7 @@ Course Material all the material is available at this page.
 | ----------------- | ----------------- | -------- | ----------- | ---------- | 
 |Day 1 | [Introduction](https://marcolorenzi.github.io/material/Resampling/intro.pdf)           |  [Basic Probability Models and Sampling in Python](https://marcolorenzi.github.io/material/Resampling/Lesson1.ipynb)     |      /       |         /   |
 |Day 2 | /          |  [Data Generation - Regression & Classification](https://marcolorenzi.github.io/material/Resampling/lesson2.ipynb)     |      /       |     [Gu2003], [Gu2007]   |
+|Day 3| /            | [Bias and Variance](https://marcolorenzi.github.io/material/Resampling/lesson3.ipynb)  | / | [HTF2001]:Ch7, [Bis2006]:Ch1,Ch3, [Gem1992] |
 
 
 **References**
