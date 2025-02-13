@@ -13,8 +13,8 @@ author_profile: true
  Within this context we will present the Multi-Channel Variational Autoencoder, recently developed by our group.
 
 
-- <a href="./material/winter_school/Imaging_Genetics_Book_Chapter.pdf"> (The hitchhiker‘s guide to) Imaging-Genetics </a></button>           
-- <a href="./material/winter_school/Lorenzi_latent_variable_models.ipynb"> Colab notebook </a></button>    
+- <a href="https://marcolorenzi.github.io//material/winter_school/Imaging_Genetics_Book_Chapter.pdf"> (The hitchhiker‘s guide to) Imaging-Genetics </a></button>           
+- <a href="https://marcolorenzi.github.io//material/winter_school/Lorenzi_latent_variable_models.ipynb"> Colab notebook </a></button>    
 - <button type="button" class="btn btn-outline-info"><a href="./material/winter_school/Imaging-Genetics-winter_school_Verona_2019_compressed.pdf"> Presentation </a></button> 
         
 
