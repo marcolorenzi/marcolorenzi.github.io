@@ -23,6 +23,7 @@ Course Material all the material is available at this page.
 |Day 5 |  / |   [Cross-validation](https://marcolorenzi.github.io/material/Resampling/lesson5.ipynb) |  / | [HTF2001]:Ch7 |
 |Day 6 |  / |  Classroom Test |  / | / |
 |Day 7 |  / |   [Cross-validation II](https://marcolorenzi.github.io/material/Resampling/lesson6_to_fill.ipynb) |  / | [HTF2001]:Ch7 |
+|Day 8 |  / |   [Information Criteria I](https://marcolorenzi.github.io/material/Resampling/lesson7.ipynb) |  / | [HTF2001]:Ch7 |
 
 **References**
       
