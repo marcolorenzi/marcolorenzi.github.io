@@ -122,7 +122,7 @@ Università degli studi di Torino, 2006
 	<em> Multi-centric brain image analysis in Alzheimer's disease </em> </li>
 <li> 	Departement des Alpes Maritimes (PACA). Project Big Data for brain research (70k€). <b>PI</b>. 
 	<br>
-`	<em> Large-scale imaging-genetics analysis in brain disorders. </em> </li>
+	<em> Large-scale imaging-genetics analysis in brain disorders. </em> </li>
 </ul>
 
 <h3> Research Area: Multi-centric biomedical data analysis & federated learning </h3>
@@ -177,11 +177,11 @@ Università degli studi di Torino, 2006
 
 <details>
   <summary>
-  <h1> Societes </h1> 
+  <h1> Societies </h1>
   </summary>
   <br>
 
-<p>I am member of the following societes:</p>
+<p>I am member of the following societies:</p>
 <ul>
 <li> Ellis Society </li>
 <li> The Medical Image Computing and Computer Assisted Intervention Society </li>
