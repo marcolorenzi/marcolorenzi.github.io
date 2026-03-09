@@ -1,7 +1,7 @@
 ---
 title: "A Differentially Private Probabilistic Framework for Modeling the Variability Across Federated Datasets of Heterogeneous Multi-View Observations"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2022-04-01-differentially-private-federated
 excerpt: 'Differentially private probabilistic model for federated analysis of heterogeneous multi-view biomedical datasets.'
 date: 2022-04-01

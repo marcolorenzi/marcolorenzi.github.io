@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking Collaborative Learning Methods Cost-Effectiveness for Prostate Segmentation"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2023-09-01-benchmarking-collaborative-learning
 excerpt: 'Benchmark study evaluating cost-effectiveness of federated and collaborative learning for prostate segmentation.'
 date: 2023-09-01

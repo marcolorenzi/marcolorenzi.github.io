@@ -52,18 +52,33 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+    {% if post.paperurl %}
+      <p class="pub-links">
+        {% if post.paperurl contains "pubmed" %}
+          <a href="{{ post.paperurl }}" class="pub-badge pub-badge--pubmed" target="_blank" rel="noopener">
+            <i class="fas fa-book-open" aria-hidden="true"></i>&nbsp;PubMed
+          </a>
+        {% elsif post.paperurl contains "arxiv" %}
+          <a href="{{ post.paperurl }}" class="pub-badge pub-badge--arxiv" target="_blank" rel="noopener">
+            <i class="fas fa-file-lines" aria-hidden="true"></i>&nbsp;arXiv
+          </a>
+        {% else %}
+          <a href="{{ post.paperurl }}" class="pub-badge pub-badge--doi" target="_blank" rel="noopener">
+            <i class="fas fa-external-link-alt" aria-hidden="true"></i>&nbsp;Paper
+          </a>
+        {% endif %}
+        {% if post.slidesurl %}
+          <a href="{{ post.slidesurl }}" class="pub-badge pub-badge--slides" target="_blank" rel="noopener">
+            <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;Slides
+          </a>
+        {% endif %}
+      </p>
     {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p class="pub-links">
+        <a href="{{ post.slidesurl }}" class="pub-badge pub-badge--slides" target="_blank" rel="noopener">
+          <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;Slides
+        </a>
+      </p>
     {% endif %}
 
   </article>

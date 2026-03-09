@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Distribution Modelling via Augmented Architectures For Neural ODE Flows"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2023-06-02-neural-ode-flows
 excerpt: 'Augmented neural ODE architectures for improved density estimation in normalizing flows.'
 date: 2023-06-01

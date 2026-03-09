@@ -1,7 +1,7 @@
 ---
 title: "A cautionary tale on the cost-effectiveness of collaborative AI in real-world medical applications"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2024-12-01-cautionary-tale-collaborative-ai
 excerpt: 'Empirical analysis of the cost-effectiveness of federated and collaborative AI in real-world medical imaging settings.'
 date: 2024-12-01

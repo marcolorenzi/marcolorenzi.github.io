@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Privacy in Federated Learning: Secure Aggregation for Real-World Healthcare Applications"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2024-09-01-secure-aggregation-federated
 excerpt: 'Secure aggregation protocol enhancing privacy guarantees in federated learning for healthcare.'
 date: 2024-09-01

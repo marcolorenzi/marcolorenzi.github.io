@@ -1,7 +1,7 @@
 ---
 title: "Alzheimer's Disease Modelling and Staging through Independent Gaussian Process Analysis of Spatio-Temporal Brain Changes"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2018-08-01-ad-independent-gp-staging
 excerpt: 'Independent Gaussian process model for staging and characterizing spatio-temporal brain changes in Alzheimer\'s disease.'
 date: 2018-08-01

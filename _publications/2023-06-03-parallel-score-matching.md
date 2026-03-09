@@ -1,7 +1,7 @@
 ---
 title: "Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2023-06-03-parallel-score-matching
 excerpt: 'Parallel score matching method for faster training of diffusion models with improved density estimation.'
 date: 2023-06-01

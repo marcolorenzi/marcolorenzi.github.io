@@ -1,7 +1,7 @@
 ---
 title: "Fed-BioMed: Open, Transparent and Trusted Federated Learning for Real-world Healthcare Applications"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2023-04-01-fedbiomed
 excerpt: 'Fed-BioMed: an open-source federated learning framework designed for real-world healthcare and biomedical applications.'
 date: 2023-04-01

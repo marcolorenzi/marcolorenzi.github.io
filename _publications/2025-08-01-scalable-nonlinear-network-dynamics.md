@@ -1,7 +1,7 @@
 ---
 title: "Scalable Modeling of Nonlinear Network Dynamics in Neurodegenerative Disease"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-08-01-scalable-nonlinear-network-dynamics
 excerpt: 'Scalable framework for modeling nonlinear propagation dynamics across brain networks in neurodegeneration.'
 date: 2025-08-01

@@ -1,7 +1,7 @@
 ---
 title: "Disease Progression Modeling and Prediction through Random Effect Gaussian Processes and Time Transformation"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2017-01-01-random-effect-gp-progression
 excerpt: 'Random effect Gaussian process model for disease progression, introducing patient-specific time transformations to align individual trajectories.'
 date: 2017-01-01

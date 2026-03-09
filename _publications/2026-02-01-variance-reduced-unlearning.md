@@ -1,7 +1,7 @@
 ---
 title: "Variance-Reduced (ε,δ)-Unlearning using Forget Set Gradients"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2026-02-01-variance-reduced-unlearning
 excerpt: 'Variance-reduced machine unlearning algorithm using forget-set gradients with (ε,δ)-privacy guarantees.'
 date: 2026-02-01

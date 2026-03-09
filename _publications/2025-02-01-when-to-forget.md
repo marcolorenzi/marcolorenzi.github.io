@@ -1,7 +1,7 @@
 ---
 title: "When to Forget? Complexity Trade-offs in Machine Unlearning"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-02-01-when-to-forget
 excerpt: 'Analysis of computational complexity trade-offs in machine unlearning algorithms.'
 date: 2025-02-01

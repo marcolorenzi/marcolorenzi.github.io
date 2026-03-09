@@ -1,7 +1,7 @@
 ---
 title: "A Technical Policy Blueprint for Trustworthy Decentralized AI"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-12-01-trustworthy-decentralized-ai
 excerpt: 'Policy blueprint outlining technical requirements for trustworthy decentralized AI systems.'
 date: 2025-12-01

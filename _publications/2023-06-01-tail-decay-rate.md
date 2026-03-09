@@ -1,7 +1,7 @@
 ---
 title: "On Tail Decay Rate Estimation of Loss Function Distributions"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2023-06-01-tail-decay-rate
 excerpt: 'Theoretical study of tail decay rate estimation for loss function distributions in deep learning.'
 date: 2023-06-01

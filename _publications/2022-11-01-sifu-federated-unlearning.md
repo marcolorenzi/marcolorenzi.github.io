@@ -1,7 +1,7 @@
 ---
 title: "SIFU: Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2022-11-01-sifu-federated-unlearning
 excerpt: 'SIFU: a sequential federated unlearning method with provable guarantees for efficient client data removal.'
 date: 2022-11-01

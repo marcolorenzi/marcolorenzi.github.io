@@ -1,7 +1,7 @@
 ---
 title: "Fed-ComBat: A Generalized Federated Framework for Batch Effect Harmonization in Collaborative Studies"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2026-01-01-fed-combat
 excerpt: 'A federated framework for batch effect harmonization across collaborative imaging studies.'
 date: 2026-01-01

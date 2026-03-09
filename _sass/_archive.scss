@@ -2,6 +2,37 @@
    ARCHIVE
    ========================================================================== */
 
+/* Publication link badges */
+.pub-links {
+  margin-top: 0.4em;
+  margin-bottom: 0;
+}
+
+.pub-badge {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: 3px;
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-decoration: none !important;
+  color: #fff !important;
+  margin-right: 6px;
+  vertical-align: middle;
+  transition: opacity 0.15s ease;
+
+  &:hover {
+    opacity: 0.82;
+    color: #fff !important;
+    text-decoration: none !important;
+  }
+
+  &--pubmed  { background-color: #326295; }
+  &--arxiv   { background-color: #B31B1B; }
+  &--doi     { background-color: #555;    }
+  &--slides  { background-color: #2e7d32; }
+}
+
 .archive {
   margin-bottom: 2em;
 
