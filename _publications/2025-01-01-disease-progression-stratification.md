@@ -3,7 +3,7 @@ title: "Disease Progression Modeling and Stratification for detecting sub-trajec
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-disease-progression-stratification
-excerpt: 'A disease progression modeling approach for detecting sub-trajectories, applied to Alzheimer\'s disease.'
+excerpt: 'A disease progression modeling approach for detecting sub-trajectories, applied to Alzheimer''s disease.'
 date: 2025-01-01
 venue: 'Imaging Neuroscience'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/41211099/'

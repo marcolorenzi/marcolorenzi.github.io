@@ -3,7 +3,7 @@ title: "A model of brain morphological changes related to aging and Alzheimer's 
 collection: publications
 category: manuscripts
 permalink: /publication/2019-01-03-brain-morphology-aging
-excerpt: 'Statistical model disentangling aging and Alzheimer\'s disease effects on brain morphology from cross-sectional data.'
+excerpt: 'Statistical model disentangling aging and Alzheimer''s disease effects on brain morphology from cross-sectional data.'
 date: 2019-01-01
 venue: 'NeuroImage'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/31121298/'

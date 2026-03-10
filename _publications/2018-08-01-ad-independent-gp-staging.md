@@ -3,7 +3,7 @@ title: "Alzheimer's Disease Modelling and Staging through Independent Gaussian P
 collection: publications
 category: preprints
 permalink: /publication/2018-08-01-ad-independent-gp-staging
-excerpt: 'Independent Gaussian process model for staging and characterizing spatio-temporal brain changes in Alzheimer\'s disease.'
+excerpt: 'Independent Gaussian process model for staging and characterizing spatio-temporal brain changes in Alzheimer''s disease.'
 date: 2018-08-01
 venue: 'arXiv preprint arXiv:1808.06367'
 paperurl: 'https://arxiv.org/abs/1808.06367'

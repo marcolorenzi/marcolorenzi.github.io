@@ -3,7 +3,7 @@ title: "Genetic study of multimodal imaging Alzheimer's disease progression scor
 collection: publications
 category: manuscripts
 permalink: /publication/2018-01-02-multimodal-imaging-genetics
-excerpt: 'GWAS of a multimodal imaging-based Alzheimer\'s disease progression score identifies novel genetic loci.'
+excerpt: 'GWAS of a multimodal imaging-based Alzheimer''s disease progression score identifies novel genetic loci.'
 date: 2018-01-01
 venue: 'Brain'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/29860282/'

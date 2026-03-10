@@ -3,7 +3,7 @@ title: "Regional flux analysis for discovering and quantifying anatomical change
 collection: publications
 category: manuscripts
 permalink: /publication/2015-01-02-regional-flux
-excerpt: 'Regional flux analysis method to discover and quantify longitudinal anatomical changes in Alzheimer\'s disease.'
+excerpt: 'Regional flux analysis method to discover and quantify longitudinal anatomical changes in Alzheimer''s disease.'
 date: 2015-01-01
 venue: 'NeuroImage'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/25963734/'
