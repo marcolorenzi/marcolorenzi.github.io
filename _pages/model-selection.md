@@ -25,6 +25,7 @@ Course Material all the material is available at this page.
 |Day 7 |  / |   [Cross-validation II](https://marcolorenzi.github.io/material/Resampling/lesson6_to_fill.ipynb) |  / | [HTF2001]:Ch7 |
 |Day 8 |  / |   [Information Criteria I](https://marcolorenzi.github.io/material/Resampling/lesson7.ipynb) |  / | [McE2016]:Ch6 |\
 |Day 9 |  / |   [Information Criteria II](https://marcolorenzi.github.io/material/Resampling/lesson8.ipynb) |  / | [McE2016]:Ch6 |
+|Day 10 |  / |   [Practical Exercises](https://marcolorenzi.github.io/material/Resampling/model_selection_practice.ipynb) |  / | / |
 
 **References**
       
