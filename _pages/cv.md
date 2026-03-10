@@ -22,7 +22,7 @@ redirect_from:
 <h2 id="positions" class="pub-section-title">Positions</h2>
 
 - Current: Research Scientist. Epione Research Group, Centre Inria d'Université Côte d'Azur, France
-- Current: Visiting Senior Lecturer. King's College London, UK
+- Visiting Senior Lecturer. King's College London, UK
 - University College London, UK — Honorary Research Associate
 - Visiting Research Associate. Imaging Genetics Center, University Southern California, CA, USA
 - Research Associate. University College London, UK
