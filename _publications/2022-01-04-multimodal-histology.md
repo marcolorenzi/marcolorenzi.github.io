@@ -7,5 +7,6 @@ excerpt: 'A robust method for joint registration of histological stains and MRI 
 date: 2021-01-01
 venue: 'Medical Image Analysis'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/34741894/'
+authors: 'Casamitjana A, Lorenzi M, Ferraris S, Peter L, Modat M, Stevens A, Fischl B, Vercauteren T, Iglesias JE'
 citation: 'Casamitjana A, Lorenzi M, Ferraris S, Peter L, Modat M, Stevens A, Fischl B, Vercauteren T, Iglesias JE. (2022). &quot;Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction.&quot; <i>Med Image Anal</i>.'
 ---

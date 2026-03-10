@@ -7,5 +7,6 @@ excerpt: 'Analysis of partial least squares methods for imaging genetics studies
 date: 2022-01-08
 venue: 'IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2022)'
 paperurl: 'https://ieeexplore.ieee.org/document/9926991'
+authors: 'Cruciani F, Altmann A, Lorenzi M, Menegaz G, Boscolo Galazzo I'
 citation: 'Cruciani F, Altmann A, Lorenzi M, Menegaz G, Boscolo Galazzo I. (2022). &quot;What PLS can still do for Imaging Genetics in Alzheimer&apos;s disease.&quot; <i>BHI 2022</i>, pp. 1&ndash;4.'
 ---

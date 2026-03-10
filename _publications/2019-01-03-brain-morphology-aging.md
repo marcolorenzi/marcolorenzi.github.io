@@ -7,5 +7,6 @@ excerpt: 'Statistical model disentangling aging and Alzheimer''s disease effects
 date: 2019-01-01
 venue: 'NeuroImage'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/31121298/'
+authors: 'Sivera R, Delingette H, Lorenzi M, Pennec X, Ayache N'
 citation: 'Sivera R, Delingette H, Lorenzi M, Pennec X, Ayache N; Alzheimer&apos;s Disease Neuroimaging Initiative. (2019). &quot;A model of brain morphological changes related to aging and Alzheimer&apos;s disease from cross-sectional assessments.&quot; <i>Neuroimage</i>.'
 ---

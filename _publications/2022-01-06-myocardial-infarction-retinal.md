@@ -7,5 +7,6 @@ excerpt: 'Deep learning approach predicting myocardial infarction risk from reti
 date: 2022-01-01
 venue: 'Nature Machine Intelligence'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/35603289/'
+authors: 'Diaz-Pinto A, Ravikumar N, Attar R, et al., Lorenzi M, et al'
 citation: 'Diaz-Pinto A, Ravikumar N, Attar R, et al., Lorenzi M, et al. (2022). &quot;Predicting myocardial infarction through retinal scans and minimal personal information.&quot; <i>Nature Machine Intelligence</i>, 4(1):55&ndash;61.'
 ---

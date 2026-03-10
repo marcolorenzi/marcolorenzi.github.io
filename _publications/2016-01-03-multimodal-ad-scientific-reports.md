@@ -7,5 +7,6 @@ excerpt: 'Statistical model for multimodal neuroimaging analysis in Alzheimer&ap
 date: 2016-01-01
 venue: 'Scientific Reports'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/27279376/'
+authors: 'Lorenzi M, Simpson IJ, Mendelson AF, Vos SB, Cardoso MJ, Modat M, Schott J, Ourselin S'
 citation: 'Lorenzi M, Simpson IJ, Mendelson AF, Vos SB, Cardoso MJ, Modat M, Schott J, Ourselin S. (2016). &quot;Multimodal Image Analysis in Alzheimer&apos;s Disease via Statistical Modelling of Non-local Intensity Correlations.&quot; <i>Scientific Reports</i>, 6, 22861.'
 ---

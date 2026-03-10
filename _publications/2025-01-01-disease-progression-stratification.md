@@ -7,5 +7,6 @@ excerpt: 'A disease progression modeling approach for detecting sub-trajectories
 date: 2025-01-01
 venue: 'Imaging Neuroscience'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/41211099/'
+authors: 'Viani A, Custo A, d''Angremont E, Garibotto V, Frisoni GB, Gutman BA, Lorenzi M'
 citation: 'Viani A, Custo A, d&apos;Angremont E, Garibotto V, Frisoni GB, Gutman BA, Lorenzi M. (2025). &quot;Disease Progression Modeling and Stratification for detecting sub-trajectories in the natural history of pathologies.&quot; <i>Imaging Neurosci (Camb)</i>.'
 ---

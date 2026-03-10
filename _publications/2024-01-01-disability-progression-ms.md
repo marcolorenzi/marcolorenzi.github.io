@@ -7,5 +7,6 @@ excerpt: 'Data-driven modeling of disability progression trajectories in progres
 date: 2024-01-01
 venue: 'Brain Communications'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/39777254/'
+authors: 'Garbarino S, Tur C, Lorenzi M, Pardini M, Piana M, Uccelli A, Arnold DL, Cree BAC, Sormani MP, Bovis F'
 citation: 'Garbarino S, Tur C, Lorenzi M, Pardini M, Piana M, Uccelli A, Arnold DL, Cree BAC, Sormani MP, Bovis F. (2024). &quot;A data-driven model of disability progression in progressive multiple sclerosis.&quot; <i>Brain Commun</i>.'
 ---

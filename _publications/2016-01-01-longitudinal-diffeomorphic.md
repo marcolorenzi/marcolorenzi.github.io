@@ -7,5 +7,6 @@ excerpt: 'Computational framework for longitudinal image time series analysis us
 date: 2016-01-01
 venue: 'Frontiers in Neuroscience'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/27375408/'
+authors: 'Hadj-Hamou M, Lorenzi M, Ayache N, Pennec X'
 citation: 'Hadj-Hamou M, Lorenzi M, Ayache N, Pennec X. (2016). &quot;Longitudinal Analysis of Image Time Series with Diffeomorphic Deformations: A Computational Framework Based on Stationary Velocity Fields.&quot; <i>Front Neurosci</i>.'
 ---

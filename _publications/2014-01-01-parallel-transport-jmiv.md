@@ -7,5 +7,6 @@ excerpt: 'Efficient algorithms for parallel transport of diffeomorphic deformati
 date: 2014-01-01
 venue: 'Journal of Mathematical Imaging and Vision'
 paperurl: 'https://link.springer.com/article/10.1007/s10851-013-0470-3'
+authors: 'Lorenzi M, Pennec X'
 citation: 'Lorenzi M, Pennec X. (2014). &quot;Efficient Parallel Transport of Deformations in Time Series of Images: from Schild&apos;s to Pole Ladder.&quot; <i>Journal of Mathematical Imaging and Vision</i>, 50(1-2):5&ndash;17.'
 ---

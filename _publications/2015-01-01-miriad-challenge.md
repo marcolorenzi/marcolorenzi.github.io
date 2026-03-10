@@ -7,5 +7,6 @@ excerpt: 'Comparative evaluation of brain atrophy measurement algorithms in deme
 date: 2015-01-01
 venue: 'NeuroImage'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/26275383/'
+authors: 'Cash DM, Frost C, Iheme LO, et al'
 citation: 'Cash DM, Frost C, Iheme LO, et al. (2015). &quot;Assessing atrophy measurement techniques in dementia: Results from the MIRIAD atrophy challenge.&quot; <i>Neuroimage</i>.'
 ---

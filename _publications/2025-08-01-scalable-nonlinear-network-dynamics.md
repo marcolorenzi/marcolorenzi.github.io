@@ -7,5 +7,6 @@ excerpt: 'Scalable framework for modeling nonlinear propagation dynamics across 
 date: 2025-08-01
 venue: 'arXiv preprint arXiv:2508.10343'
 paperurl: 'https://arxiv.org/abs/2508.10343'
+authors: 'Semchin D, d''Angremont E, Lorenzi M, Gutman B'
 citation: 'Semchin D, d&apos;Angremont E, Lorenzi M, Gutman B. (2025). &quot;Scalable Modeling of Nonlinear Network Dynamics in Neurodegenerative Disease.&quot; <i>arXiv:2508.10343</i>.'
 ---

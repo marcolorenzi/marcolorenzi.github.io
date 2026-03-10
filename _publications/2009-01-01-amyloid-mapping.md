@@ -7,5 +7,6 @@ excerpt: 'PET-based in vivo mapping of amyloid-beta toxicity and its regional ef
 date: 2009-01-01
 venue: 'Neurology'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/19414724/'
+authors: 'Frisoni GB, Lorenzi M, Caroli A, Kemppainen N, Nagren K, Rinne JO'
 citation: 'Frisoni GB, Lorenzi M, Caroli A, Kemppainen N, Nagren K, Rinne JO. (2009). &quot;In vivo mapping of amyloid toxicity in Alzheimer&apos;s disease.&quot; <i>Neurology</i>, 72(17):1504&ndash;1511.'
 ---

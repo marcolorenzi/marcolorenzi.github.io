@@ -7,5 +7,6 @@ excerpt: 'Independent Gaussian process model for staging and characterizing spat
 date: 2018-08-01
 venue: 'arXiv preprint arXiv:1808.06367'
 paperurl: 'https://arxiv.org/abs/1808.06367'
+authors: 'Abi Nader C, Ayache N, Robert P, Lorenzi M'
 citation: 'Abi Nader C, Ayache N, Robert P, Lorenzi M. (2018). &quot;Alzheimer&apos;s Disease Modelling and Staging through Independent Gaussian Process Analysis of Spatio-Temporal Brain Changes.&quot; <i>arXiv:1808.06367</i>.'
 ---

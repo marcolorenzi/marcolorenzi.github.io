@@ -7,5 +7,6 @@ excerpt: 'One of the first applications of federated learning to medical imaging
 date: 2018-10-01
 venue: 'IEEE International Symposium on Biomedical Imaging (ISBI 2019), Venice'
 paperurl: 'https://arxiv.org/abs/1810.08553'
+authors: 'Silva S, Gutman B, Romero E, Thompson PM, Altmann A, Lorenzi M'
 citation: 'Silva S, Gutman B, Romero E, Thompson PM, Altmann A, Lorenzi M. (2019). &quot;Federated Learning in Distributed Medical Databases: Meta-Analysis of Large-Scale Subcortical Brain Data.&quot; <i>ISBI 2019</i>.'
 ---

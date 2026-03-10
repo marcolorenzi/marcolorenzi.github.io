@@ -84,6 +84,18 @@
   }
 }
 
+/* Publication author line */
+.pub-authors {
+  font-size: 0.78em;
+  color: mix(#000, $gray, 20%);
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+
+  u {
+    text-decoration-thickness: 1px;
+  }
+}
+
 /* Publication link badges */
 .pub-links {
   margin-top: 0.4em;

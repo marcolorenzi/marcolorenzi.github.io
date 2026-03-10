@@ -7,5 +7,6 @@ excerpt: 'A method for privacy-preserving medical image registration in federate
 date: 2024-01-05
 venue: 'Medical Image Analysis'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/38471338/'
+authors: 'Taiello R, Önen M, Capano F, Humbert O, Lorenzi M'
 citation: 'Taiello R, Önen M, Capano F, Humbert O, Lorenzi M. (2024). &quot;Privacy preserving image registration.&quot; <i>Med Image Anal</i>.'
 ---

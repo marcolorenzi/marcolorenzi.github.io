@@ -7,5 +7,6 @@ excerpt: 'Integration of biophysical modeling and statistical learning for heart
 date: 2021-01-01
 venue: 'Medical Image Analysis'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/34020082/'
+authors: 'Banus J, Lorenzi M, Camara O, Sermesant M'
 citation: 'Banus J, Lorenzi M, Camara O, Sermesant M. (2021). &quot;Biophysics-based statistical learning: Application to heart and brain interactions.&quot; <i>Med Image Anal</i>.'
 ---

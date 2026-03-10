@@ -41,6 +41,11 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
+          {% if post.authors %}
+            {% assign auth_arr = post.authors | split: ", " %}
+            {% assign auth_count = auth_arr | size %}
+            <p class="pub-authors">{% if auth_count > 7 %}{% assign lorenzi_in_first7 = false %}{% for i in (0..6) %}{% assign a = auth_arr[i] %}{% if a contains "Lorenzi" %}{% assign lorenzi_in_first7 = true %}{% endif %}{% endfor %}{% for i in (0..6) %}{% assign a = auth_arr[i] %}{% if i > 0 %}, {% endif %}{% if a contains "Lorenzi" %}<u>{{ a }}</u>{% else %}{{ a }}{% endif %}{% endfor %}, et al.{% unless lorenzi_in_first7 %}{% assign last_a = auth_arr | last %}{% assign second_last_idx = auth_count | minus: 2 %}{% assign second_last_a = auth_arr[second_last_idx] %}{% if last_a contains "Lorenzi" %}, <u>{{ last_a }}</u>{% elsif second_last_a contains "Lorenzi" %}, <u>{{ second_last_a }}</u>{% endif %}{% endunless %}{% else %}{% for a in auth_arr %}{% unless forloop.first %}, {% endunless %}{% if a contains "Lorenzi" %}<u>{{ a }}</u>{% else %}{{ a }}{% endif %}{% endfor %}{% endif %}</p>
+          {% endif %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>

@@ -7,5 +7,6 @@ excerpt: 'A federated framework for batch effect harmonization across collaborat
 date: 2026-01-01
 venue: 'arXiv (preprint)'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/41647233/'
+authors: 'Silva S, Reguig G, Oxtoby NP, Altmann A, Lorenzi M'
 citation: 'Silva S, Reguig G, Oxtoby NP, Altmann A, Lorenzi M. (2026). &quot;Fed-ComBat: A Generalized Federated Framework for Batch Effect Harmonization in Collaborative Studies.&quot; <i>arXiv</i>.'
 ---

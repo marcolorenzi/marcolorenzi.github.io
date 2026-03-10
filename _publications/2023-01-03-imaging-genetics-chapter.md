@@ -7,5 +7,6 @@ excerpt: 'Book chapter on imaging genetics methods, covering multivariate approa
 date: 2023-01-03
 venue: 'Medical Image Analysis (Elsevier, 2nd ed.), eds. Frangi, Prince, Sonka'
 paperurl: 'https://www.sciencedirect.com/book/9780128136577/medical-image-analysis'
+authors: 'Lorenzi M, Altmann A'
 citation: 'Lorenzi M, Altmann A. (2023). &quot;Imaging Genetics.&quot; In <i>Medical Image Analysis</i>, 2nd ed. Editors: A. Frangi, J. Prince, M. Sonka. Elsevier. Chapter 21.'
 ---

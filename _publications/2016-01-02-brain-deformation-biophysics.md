@@ -7,5 +7,6 @@ excerpt: 'Biophysical model of brain deformation for simulating longitudinal MRI
 date: 2017-01-01
 venue: 'NeuroImage'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/27039699/'
+authors: 'Khanal B, Lorenzi M, Ayache N, Pennec X'
 citation: 'Khanal B, Lorenzi M, Ayache N, Pennec X. (2016). &quot;A biophysical model of brain deformation to simulate and analyze longitudinal MRIs of patients with Alzheimer&apos;s disease.&quot; <i>Neuroimage</i>.'
 ---

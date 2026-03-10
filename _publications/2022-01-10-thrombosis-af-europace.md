@@ -7,5 +7,6 @@ excerpt: 'Compact atrial shape representation for predicting thrombosis risk in 
 date: 2022-01-10
 venue: 'Europace'
 paperurl: 'https://academic.oup.com/europace/article/24/Supplement_1/euac053.562/6591946'
+authors: 'Harrison J, Lorenzi M, Legghe B, Iriart X, Cochet H, Sermesant M'
 citation: 'Harrison J, Lorenzi M, Legghe B, Iriart X, Cochet H, Sermesant M. (2022). &quot;Prediction of thrombosis in atrial fibrillation with compact atrial shape representation.&quot; <i>Europace</i>, 24(Supplement_1):euac053-562.'
 ---

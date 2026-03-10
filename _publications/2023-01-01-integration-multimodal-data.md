@@ -7,5 +7,6 @@ excerpt: 'Book chapter on methods for multimodal data integration in brain disor
 date: 2023-01-01
 venue: 'Machine Learning for Brain Disorders (Springer)'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/37988505/'
+authors: 'Lorenzi M, Deprez M, Balelli I, Aguila AL, Altmann A'
 citation: 'Lorenzi M, Deprez M, Balelli I, Aguila AL, Altmann A. (2023). &quot;Integration of Multimodal Data.&quot; In <i>Machine Learning for Brain Disorders</i>. Springer.'
 ---

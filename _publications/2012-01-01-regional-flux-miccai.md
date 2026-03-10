@@ -7,5 +7,6 @@ excerpt: 'Regional flux analysis applied to longitudinal brain atrophy in Alzhei
 date: 2012-01-01
 venue: 'Medical Image Computing and Computer-Assisted Intervention (MICCAI)'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/23285618/'
+authors: 'Lorenzi M, Ayache N, Xavier P'
 citation: 'Lorenzi M, Ayache N, Xavier P; Alzheimer&apos;s Disease Neuroimaging Initiative. (2012). &quot;Regional flux analysis of longitudinal atrophy in Alzheimer&apos;s disease.&quot; <i>MICCAI 2012</i>.'
 ---

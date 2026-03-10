@@ -7,5 +7,6 @@ excerpt: 'Deep learning ensemble to predict visual fields from OCT data in glauc
 date: 2022-01-01
 venue: 'American Journal of Ophthalmology'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/34998718/'
+authors: 'Lazaridis G, Montesano G, Afgeh SS, Mohamed-Noriega J, Ourselin S, Lorenzi M, Garway-Heath DF'
 citation: 'Lazaridis G, Montesano G, Afgeh SS, Mohamed-Noriega J, Ourselin S, Lorenzi M, Garway-Heath DF. (2022). &quot;Predicting Visual Fields From Optical Coherence Tomography via an Ensemble of Deep Representation Learners.&quot; <i>Am J Ophthalmol</i>.'
 ---

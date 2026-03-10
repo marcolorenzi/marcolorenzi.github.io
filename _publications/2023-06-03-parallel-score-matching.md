@@ -7,5 +7,6 @@ excerpt: 'Parallel score matching method for faster training of diffusion models
 date: 2023-06-01
 venue: 'NeurIPS 2023 Workshop on Diffusion Models'
 paperurl: 'https://arxiv.org/abs/2306.02658'
+authors: 'Haxholli E, Lorenzi M'
 citation: 'Haxholli E, Lorenzi M. (2023). &quot;Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching.&quot; <i>arXiv:2306.02658</i>.'
 ---

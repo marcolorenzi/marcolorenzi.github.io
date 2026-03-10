@@ -7,5 +7,6 @@ excerpt: 'A monotonic Gaussian process model for spatiotemporal disease progress
 date: 2020-01-01
 venue: 'NeuroImage'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/31648001/'
+authors: 'Abi Nader C, Ayache N, Robert P, Lorenzi M'
 citation: 'Abi Nader C, Ayache N, Robert P, Lorenzi M; Alzheimer&apos;s Disease Neuroimaging Initiative. (2020). &quot;Monotonic Gaussian Process for spatio-temporal disease progression modeling in brain imaging data.&quot; <i>Neuroimage</i>.'
 ---
