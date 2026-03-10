@@ -61,6 +61,23 @@
   }
 }
 
+/* Research sections */
+.research-section {
+  margin-bottom: 2em;
+  font-size: 0.9em;
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  h3 {
+    margin-top: 1em;
+    font-size: 1em;
+    color: mix(#000, $primary-color, 30%);
+  }
+}
+
 /* Publication link badges */
 .pub-links {
   margin-top: 0.4em;

@@ -7,7 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+<nav class="pub-toc">
+  {% for post in site.portfolio %}
+    <a href="#{{ post.title | slugify }}" class="pub-toc__link">{{ post.title }}</a>
+  {% endfor %}
+</nav>
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <h2 id="{{ post.title | slugify }}" class="pub-section-title">{{ post.title }}</h2>
+  <div class="research-section">
+    {{ post.content }}
+  </div>
 {% endfor %}
