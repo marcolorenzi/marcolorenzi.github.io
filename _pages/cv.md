@@ -9,182 +9,111 @@ redirect_from:
 
 {% include base_path %}
 
+<nav class="pub-toc">
+  <a href="#positions" class="pub-toc__link">Positions</a>
+  <a href="#education" class="pub-toc__link">Education</a>
+  <a href="#awards" class="pub-toc__link">Awards</a>
+  <a href="#services" class="pub-toc__link">Services to the Community</a>
+  <a href="#fundings" class="pub-toc__link">Fundings</a>
+  <a href="#talks" class="pub-toc__link">Invited Talks</a>
+  <a href="#societies" class="pub-toc__link">Societies</a>
+</nav>
 
-Positions
-======
-* Current: Research Scientist. Epione Research Group, Centre Inria d'Université Côte d’Azur, France
-* Current: Visiting Senior Lecturer. King's College London, UK
-* University College London, UK	Honorary Research Associate 
-* Visiting Research Associate. Imaging Genetics Center, University Southern California, CA, USA.
-* Research Associate. University College London, UK
-* Research Engineer. Inria, France
-* Researcher. IRCCS Fatebenefratelli, Brescia, Italy
+<h2 id="positions" class="pub-section-title">Positions</h2>
 
-Education
-======
-- **Habilitation à Diriger des Recherches**.\
-Université Côte d’Azur, 2020
-- **Ph.D in Signal and Image Processing**.\
-Université de Nice, 2012
-- **M.S. in Mathematics**.\
-Università degli studi di Torino, 2006
-- **B.S. in Mathematics**.\
- Università degli studi di Torino, 2004
+- Current: Research Scientist. Epione Research Group, Centre Inria d'Université Côte d'Azur, France
+- Current: Visiting Senior Lecturer. King's College London, UK
+- University College London, UK — Honorary Research Associate
+- Visiting Research Associate. Imaging Genetics Center, University Southern California, CA, USA
+- Research Associate. University College London, UK
+- Research Engineer. Inria, France
+- Researcher. IRCCS Fatebenefratelli, Brescia, Italy
 
-<details>
-  <summary>
-  <h1> Awards </h1> 
-  </summary>
-  <br>
-	
-<h3> Personal Awards: </h3>
-<ul>
-<li> (2020-2028) Chair holder at 3IA Côte d’Azur (axis Core Elements of AI). </li>
-<li> (2018-2024) Inria Research and Doctoral Supervision Award (RIPEC). </li>
-<li> (2018) Outstanding reviewer  of the conference NeurIPS 2018. </li>
-<li> (2015) Second position ex-aequo for the 2015 ERCIM Cor Baayen Award.
-	<br>
-          <em>Most promising European young researcher in computer science and applied mathematics* </em></li>
-<li> (2011) Erbsmann Award Honorable Mention, Conference IPMI
-	<br>
-    <em>One of the most prestigious awards of the medical imaging community</em> </li>
-</ul>
+<h2 id="education" class="pub-section-title">Education</h2>
 
-<h3> As Research Director: </h3>
-<ul>
-<li> (2024) UNICANCER Innovation Award to projet Federated-PET
-<br>
-  <em> Co-PI with Dr. O. Humbert, Hospital A. Lacassagne, Nice, France</em> </li>
-<li> (2022) Yann Fraboni (PhD). Best thesis award
-<br>
-  <em> From Doctoral School STIC, Université Côte d’Azur </em> </li>
-<li> (2022) Yann Fraboni (PhD). Best paper award
-<br>
-  <em> International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022. </em> </li>
-<li> (2021) Andrea Senacheribbe (MSc). Best Master Thesis Award
-<br>
-  <em> From Politecnico di Torino </em> </li>
-<li> (2019) Sara Garbarino (Postdoc). Erbsmann award, Conference IPMI
-<br>
-  <em> One of the most prestigious awards of the medical imaging community </em></li>
-</ul>
-</details>
+- **Habilitation à Diriger des Recherches**. Université Côte d'Azur, 2020
+- **Ph.D in Signal and Image Processing**. Université de Nice, 2012
+- **M.S. in Mathematics**. Università degli studi di Torino, 2006
+- **B.S. in Mathematics**. Università degli studi di Torino, 2004
 
-<details>
-  <summary>
-  <h1> Services to the Community  </h1> 
-  </summary>
-  <br>
+<h2 id="awards" class="pub-section-title">Awards</h2>
 
-<h3> Conference Area Chair:</h3>
-<ul>
-<li> Neural Information Processing Systems (NeurIPS 2023, NeurIPS 2024) </li>
-<li>	Computer Vision and Pattern Recognition (CVPR 2021-2023-2024) </li>
-<li>	Medical Image Computing and Computer Assisted Intervention (MICCAI 2021-2022)</li>
-</ul>
+### Personal Awards
 
-<h3>  Editorial Activity: </h3>
-<ul>
-<li>	Associate Editor of Medical Image Analysis (Elsevier) since 2021 </li>
-<li>	Editorial Board Member of Scientific Reports (Nature Publishing Group) from 2014 to 2021 </li>
-<li>	Member of the Board of Statisticians of the Journal of Alzheimer's Disease from 2017 to 2022 </li>
-</ul>
+- (2020–2028) Chair holder at 3IA Côte d'Azur (axis Core Elements of AI).
+- (2018–2024) Inria Research and Doctoral Supervision Award (RIPEC).
+- (2018) Outstanding reviewer of the conference NeurIPS 2018.
+- (2015) Second position ex-aequo for the 2015 ERCIM Cor Baayen Award. *Most promising European young researcher in computer science and applied mathematics.*
+- (2011) Erbsmann Award Honorable Mention, Conference IPMI. *One of the most prestigious awards of the medical imaging community.*
 
-<h3>  Organisation of Scientific Events (selection) </h3>
+### As Research Director
 
-<ul>
-<li>	Organizing committee member of the 2023 edition of the IEEE International Symposium on Biomedical Imaging (ISBI), Cartagena (Colombia). In charge of student events organization. </li>
-<li>	Organizing committee member of the 1st Colloque Français inter-3IA d’Intelligence Artificielle, 2023. 200 participants, 14 invited speakers. In charge of program definition and speaker invitation.</li>
-<li>	Co-chair of the 1st Tutorial on Trustworthy AI in medical imaging. Medical Image Computing and Computer Assisted Intervention conference, MICCAI 2022, Singapore.  </li>
-<li> Organizer of the Special Session “Security and Fairness in Collaborative Healthcare Data Analysis”, presented at the International Symposium of Biomedical Imaging (ISBI), 2021.</li>
-<li>	Organizer of a one-day hands-on session on the software Fed-BioMed to the Winter School AI4Health (HDH and 3IA) in 2021 and 2022, and to the Inria DFKI Summer School (2021).</li>
-<li>	Co-organiser of the Tutorial “Disease progression modeling with cross-sectional and longitudinal data”, presented at the International Conference Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, and at at the International Symposium of Biomedical Imaging (ISBI) 2021. </li>
-</ul>
+- (2024) UNICANCER Innovation Award to project Federated-PET. *Co-PI with Dr. O. Humbert, Hospital A. Lacassagne, Nice, France.*
+- (2022) Yann Fraboni (PhD). Best thesis award. *From Doctoral School STIC, Université Côte d'Azur.*
+- (2022) Yann Fraboni (PhD). Best paper award. *International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022.*
+- (2021) Andrea Senacheribbe (MSc). Best Master Thesis Award. *From Politecnico di Torino.*
+- (2019) Sara Garbarino (Postdoc). Erbsmann award, Conference IPMI. *One of the most prestigious awards of the medical imaging community.*
 
-</details>
+<h2 id="services" class="pub-section-title">Services to the Community</h2>
 
-<details>
-  <summary>
-  <h1> Fundings  </h1> 
-  </summary>
-  <br>
- 
-<h3> Research Area: Multi-modal biomedical data analysis & disease progression modeling </h3>
-<ul>
-<li> Michael J. Fox Foundation for Parkinson’s Research. Multimodal Dynamic Modelling and Prediction of Parkinsonian Symptom Progression. <b> WP leader</b> (2023-2027, 800k€, Inria funding: 200k€). PI Dr. B. Gutman (Illinois Institute of Technology, USA.)
-	<br>
-	<em>Disease progression modelling in Parkinson's Disease.</em> </li>
-<li> 	ANR. MITOMICS (2021-2025, 800kE, Inria funding: 200k€). <b> WP leader for multi-omics analysis.</b> PIs Prof. Vincent Procaccio (CHU Angers) and Sylvie Bannwarth (CHU Nice).
-	<br>
-	<em> Multi-omics analyses in rare disorders </em> </li>
-<li> 	Université Côte d’Azur. Project Meta-ImaGen (37k€). <b>PI</b>.
-	<br>
-	<em> Multi-centric brain image analysis in Alzheimer's disease </em> </li>
-<li> 	Departement des Alpes Maritimes (PACA). Project Big Data for brain research (70k€). <b>PI</b>. 
-	<br>
-	<em> Large-scale imaging-genetics analysis in brain disorders. </em> </li>
-</ul>
+### Conference Area Chair
 
-<h3> Research Area: Multi-centric biomedical data analysis & federated learning </h3>
-<ul>
-<li> ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025-2029, 700k€, Inria funding: 300 k€). <b>PI.</b>
-	<br>
-	<em> ML-Ops for federated learning in healthcare </em>  </li>
+- Neural Information Processing Systems (NeurIPS 2023, NeurIPS 2024)
+- Computer Vision and Pattern Recognition (CVPR 2021, 2023, 2024)
+- Medical Image Computing and Computer Assisted Intervention (MICCAI 2021–2022)
 
-<li> ANR. JCJC project Fed-BioMed (2019-2023, 200k€). <b>PI</b>. 
-	<br>
-        <em> Federated learning for healthcare applications. </em>  </li>
+### Editorial Activity
 
-<li> Franco-German bilateral program for AI. Project Trustworthy and Robust Artificial Intelligence (TRAIN) (2023-2027, 1.2M€, Inria funding: 350 k€). <b>PI for the French consortium</b>. German PI: Prof. Ghassan Karame (Ruhr-University Bochum). With EURECOM (France), Fraunhofer and Ruhr-University Bochum (Germany). </li>
+- Associate Editor of Medical Image Analysis (Elsevier) since 2021
+- Editorial Board Member of Scientific Reports (Nature Publishing Group) from 2014 to 2021
+- Member of the Board of Statisticians of the Journal of Alzheimer's Disease from 2017 to 2022
 
-<li> Institut National du Cancer (INCa). FEDERATED-PET (2022-2026, 1M€, Inria funding: 300k€). <b>Co-PI</b> with Prof. O. Humbert (Hospital Centre Antoine Lacassagne, France).
-	<br>
-	<em> French federated infrastructure for cancer image analysis. </em>       </li>               
+### Organisation of Scientific Events (selection)
 
-<li>	Horizon Europe. European Cancer Imaging Initiative (EUCAIM) (2023-2027, 17M€, Inria funding: 200k€). WP participant with 76 clinical and research partners across Europe. 
-	<br>
-	<em> Interoperability of federated learning platforms in a large network of European cancer hospitals. </em> </li>
-</ul>
-</details>
+- Organizing committee member of the 2023 edition of the IEEE International Symposium on Biomedical Imaging (ISBI), Cartagena (Colombia). In charge of student events organization.
+- Organizing committee member of the 1st Colloque Français inter-3IA d'Intelligence Artificielle, 2023. 200 participants, 14 invited speakers. In charge of program definition and speaker invitation.
+- Co-chair of the 1st Tutorial on Trustworthy AI in medical imaging. MICCAI 2022, Singapore.
+- Organizer of the Special Session "Security and Fairness in Collaborative Healthcare Data Analysis", ISBI 2021.
+- Organizer of a one-day hands-on session on the software Fed-BioMed at the Winter School AI4Health (HDH and 3IA) in 2021 and 2022, and at the Inria DFKI Summer School (2021).
+- Co-organiser of the Tutorial "Disease progression modeling with cross-sectional and longitudinal data", MICCAI 2021 and ISBI 2021.
 
+<h2 id="fundings" class="pub-section-title">Fundings</h2>
 
-<details>
-  <summary>
-  <h1> Selection of invited talks </h1> 
-  </summary>
-  <br>
-	
-<ul>
+### Multi-modal biomedical data analysis & disease progression modeling
 
-<li> 2024. Keynote Speaker at the event Chirurgie 4.0 organised by the Académie Nationale de Chirurgie. </li>
-<li> 2019. Lecture at the Colloque du Collège de France: L’imagerie médicale à l’heure de l’IA. </li>
-<li> 2022. Invited Lecture at the MBZUAI Workshop on MBZUAI Workshop on Collaborative Learning (Abu Dhabi), organized by Prof. M. Jordan (UC Berkeley). </li>
-<li> 2021. Invited speaker at the 3rd Federated Learning Workshop, Sorbonne University Paris, organized by Owkin, Accenture Labs, and the Société Française de Statistique (SFdS). </li>
-<li> 2024. Keynote speaker at the 5th Progression over neurodegenerative disorders meeting (POND 2024) hosted at University College London (UK).  </li>
-<li> 2023. Invited speaker for the CVPR 2023 - 10th Workshop on Medical Computer Vision, Vancouver, Canada.  </li>
-<li> 2022. Invited Lecture at the Summer School on Biomedical Imaging, ETH Zurich and University of Zurich. </li>
-<li> 2022. Invited Lecture at the webinar Quantim, of the group Méthodes Quantitatives et Traitement de l’Information Médicale, Inserm, Aix-Marseille Université. </li>
-<li> 2021. Keynote speaker at IEEE EMBS Grand Challenges Forum on Data Science and Engineering in Healthcare.  </li>
-<li> 2021. Keynote at the MICCAI Workshop on Distributed And Collaborative Learning 2021.  </li>
-<li> 2020. Invited speaker at the European Glaucoma Society Congress 2020. </li>
-<li> 2020. Invited lecture at Symposia Multi-view Methods for Imaging Genetics (OHBM conference 2020). </li>
-<li> 2019. Invited lecture at Winter School on Imaging Genetics (University of Verona, Italy). </li>
-<li> 2025. Invited Speaker at the Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale (IABM 2025). </li>
+- Michael J. Fox Foundation for Parkinson's Research. Multimodal Dynamic Modelling and Prediction of Parkinsonian Symptom Progression. **WP leader** (2023–2027, 800k€, Inria funding: 200k€). PI Dr. B. Gutman (Illinois Institute of Technology, USA). *Disease progression modelling in Parkinson's Disease.*
+- ANR. MITOMICS (2021–2025, 800k€, Inria funding: 200k€). **WP leader for multi-omics analysis.** PIs Prof. Vincent Procaccio (CHU Angers) and Sylvie Bannwarth (CHU Nice). *Multi-omics analyses in rare disorders.*
+- Université Côte d'Azur. Project Meta-ImaGen (37k€). **PI.** *Multi-centric brain image analysis in Alzheimer's disease.*
+- Departement des Alpes Maritimes (PACA). Project Big Data for brain research (70k€). **PI.** *Large-scale imaging-genetics analysis in brain disorders.*
 
-</ul>
+### Multi-centric biomedical data analysis & federated learning
 
-</details>
+- ANR. Operationalising federated learning for real-world biomedical applications (Fed-Ops) (2025–2029, 700k€, Inria funding: 300k€). **PI.** *ML-Ops for federated learning in healthcare.*
+- ANR. JCJC project Fed-BioMed (2019–2023, 200k€). **PI.** *Federated learning for healthcare applications.*
+- Franco-German bilateral program for AI. Project Trustworthy and Robust Artificial Intelligence (TRAIN) (2023–2027, 1.2M€, Inria funding: 350k€). **PI for the French consortium.** German PI: Prof. Ghassan Karame (Ruhr-University Bochum). With EURECOM (France), Fraunhofer and Ruhr-University Bochum (Germany).
+- Institut National du Cancer (INCa). FEDERATED-PET (2022–2026, 1M€, Inria funding: 300k€). **Co-PI** with Prof. O. Humbert (Hospital Centre Antoine Lacassagne, France). *French federated infrastructure for cancer image analysis.*
+- Horizon Europe. European Cancer Imaging Initiative (EUCAIM) (2023–2027, 17M€, Inria funding: 200k€). WP participant with 76 clinical and research partners across Europe. *Interoperability of federated learning platforms in a large network of European cancer hospitals.*
 
-<details>
-  <summary>
-  <h1> Societies </h1>
-  </summary>
-  <br>
+<h2 id="talks" class="pub-section-title">Selection of Invited Talks</h2>
 
-<p>I am member of the following societies:</p>
-<ul>
-<li> Ellis Society </li>
-<li> The Medical Image Computing and Computer Assisted Intervention Society </li>
-</ul>
+- 2025. Invited Speaker at the Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale (IABM 2025).
+- 2024. Keynote Speaker at the event Chirurgie 4.0 organised by the Académie Nationale de Chirurgie.
+- 2024. Keynote speaker at the 5th Progression over neurodegenerative disorders meeting (POND 2024), University College London (UK).
+- 2023. Invited speaker at CVPR 2023 — 10th Workshop on Medical Computer Vision, Vancouver, Canada.
+- 2022. Invited Lecture at the MBZUAI Workshop on Collaborative Learning (Abu Dhabi), organized by Prof. M. Jordan (UC Berkeley).
+- 2022. Invited Lecture at the Summer School on Biomedical Imaging, ETH Zurich and University of Zurich.
+- 2022. Invited Lecture at the webinar Quantim, Méthodes Quantitatives et Traitement de l'Information Médicale, Inserm, Aix-Marseille Université.
+- 2021. Invited speaker at the 3rd Federated Learning Workshop, Sorbonne University Paris, organized by Owkin, Accenture Labs, and the Société Française de Statistique (SFdS).
+- 2021. Keynote speaker at IEEE EMBS Grand Challenges Forum on Data Science and Engineering in Healthcare.
+- 2021. Keynote at the MICCAI Workshop on Distributed And Collaborative Learning 2021.
+- 2020. Invited speaker at the European Glaucoma Society Congress 2020.
+- 2020. Invited lecture at Symposia Multi-view Methods for Imaging Genetics (OHBM 2020).
+- 2019. Lecture at the Colloque du Collège de France: L'imagerie médicale à l'heure de l'IA.
+- 2019. Invited lecture at Winter School on Imaging Genetics (University of Verona, Italy).
 
-</details>
+<h2 id="societies" class="pub-section-title">Societies</h2>
+
+I am member of the following societies:
+
+- Ellis Society
+- The Medical Image Computing and Computer Assisted Intervention Society
