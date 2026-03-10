@@ -11,21 +11,31 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+
+  <nav class="pub-toc">
+    {% for category in site.publication_category %}
+      {% assign cat_posts = site.publications | where: "category", category[0] %}
+      {% if cat_posts.size > 0 %}
+        <a href="#{{ category[0] }}" class="pub-toc__link">{{ category[1].title }}</a>
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
     {% endfor %}
-  {% endfor %}
+  </nav>
+
+  <div class="pub-list">
+    {% for category in site.publication_category %}
+      {% assign title_shown = false %}
+      {% for post in site.publications reversed %}
+        {% if post.category != category[0] %}{% continue %}{% endif %}
+        {% unless title_shown %}
+          <h2 id="{{ category[0] }}" class="pub-section-title">{{ category[1].title }}</h2>
+          {% assign title_shown = true %}
+        {% endunless %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}

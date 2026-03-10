@@ -2,6 +2,65 @@
    ARCHIVE
    ========================================================================== */
 
+/* Publication page TOC */
+.pub-toc {
+  margin: 1.2em 0 1.8em;
+  padding: 0.7em 1.1em;
+  background: mix(#fff, $primary-color, 90%);
+  border-left: 4px solid $primary-color;
+  border-radius: 3px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em 0;
+
+  &__link {
+    display: inline-block;
+    font-size: 0.82em;
+    font-weight: 600;
+    color: mix(#000, $primary-color, 40%) !important;
+    text-decoration: none !important;
+    margin-right: 1.2em;
+
+    &::before {
+      content: "→ ";
+    }
+
+    &:hover {
+      text-decoration: underline !important;
+    }
+  }
+}
+
+/* Section headings */
+.pub-section-title {
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+  padding: 0.35em 0.8em;
+  background: $primary-color;
+  color: #fff;
+  border-radius: 3px;
+  font-size: $type-size-4;
+  letter-spacing: 0.03em;
+}
+
+/* Smaller font for publication items */
+.pub-list {
+  .archive__item-title {
+    font-size: $type-size-5;
+    margin-bottom: 0.1em;
+  }
+
+  .archive__item-excerpt {
+    font-size: 0.7em;
+  }
+
+  p {
+    font-size: 0.82em;
+    margin-top: 0.15em;
+    margin-bottom: 0.15em;
+  }
+}
+
 /* Publication link badges */
 .pub-links {
   margin-top: 0.4em;
