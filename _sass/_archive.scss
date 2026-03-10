@@ -41,6 +41,12 @@
   border-radius: 3px;
   font-size: $type-size-4;
   letter-spacing: 0.03em;
+
+  a {
+    color: #fff !important;
+    text-decoration: none !important;
+    &:hover { text-decoration: underline !important; }
+  }
 }
 
 /* Smaller font for publication items */
